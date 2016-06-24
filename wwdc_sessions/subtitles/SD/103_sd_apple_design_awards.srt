@@ -1,0 +1,7579 @@
+1
+00:00:07,516 --> 00:00:35,546
+[ Music ]
+
+
+2
+00:00:36,046 --> 00:00:37,156
+>> Hello, developers.
+
+
+3
+00:00:37,356 --> 00:00:38,806
+What a great venue.
+
+
+4
+00:00:39,176 --> 00:00:40,436
+This is really great.
+
+
+5
+00:00:40,586 --> 00:00:41,956
+Thanks for coming today.
+
+
+6
+00:00:41,956 --> 00:00:45,236
+It's been a long day, but we've
+got some really great stuff
+
+
+7
+00:00:45,236 --> 00:00:45,636
+for you.
+
+
+8
+00:00:46,086 --> 00:00:47,266
+So I want to welcome you
+
+
+9
+00:00:47,266 --> 00:00:50,896
+to the 15th Apple
+Design Award Ceremony.
+
+
+10
+00:00:51,326 --> 00:00:54,266
+And we've got a ton of
+great winners this evening.
+
+
+11
+00:00:54,576 --> 00:00:58,146
+And we'd like to, of course,
+recognize their great work.
+
+
+12
+00:00:58,806 --> 00:01:02,136
+The Apple Design Awards are all
+about recognizing great work
+
+
+13
+00:01:02,136 --> 00:01:03,636
+by people in this community.
+
+
+14
+00:01:03,826 --> 00:01:08,556
+And this is the moment when many
+of you -- well, many of you --
+
+
+15
+00:01:08,666 --> 00:01:10,716
+some of you get to take home one
+
+
+16
+00:01:10,716 --> 00:01:12,196
+of the Apple Design
+Award Trophies,
+
+
+17
+00:01:12,586 --> 00:01:15,536
+which everyone wants one.
+
+
+18
+00:01:15,656 --> 00:01:18,596
+And so we'll see who
+gets one tonight.
+
+
+19
+00:01:19,566 --> 00:01:22,026
+But to start things off, I
+just want to set a little bit
+
+
+20
+00:01:22,026 --> 00:01:25,086
+of context for the apps that
+are going to win tonight.
+
+
+21
+00:01:26,156 --> 00:01:29,386
+The App Store opened
+eight years ago.
+
+
+22
+00:01:29,386 --> 00:01:32,636
+In fact, next month it'll
+be exactly eight years old.
+
+
+23
+00:01:32,636 --> 00:01:35,126
+And it was on July 10th of 2008.
+
+
+24
+00:01:35,236 --> 00:01:39,556
+And in those eight
+years, apps took off.
+
+
+25
+00:01:39,556 --> 00:01:40,496
+Right? They've taken off.
+
+
+26
+00:01:40,496 --> 00:01:43,126
+And today, we heard 2
+million apps on the App Store.
+
+
+27
+00:01:43,126 --> 00:01:45,556
+But if we just go
+back for a moment
+
+
+28
+00:01:45,556 --> 00:01:48,736
+to those first days,
+it was pretty crazy.
+
+
+29
+00:01:48,736 --> 00:01:51,366
+I mean, it all started off
+with the iPhone, right?
+
+
+30
+00:01:51,366 --> 00:01:54,496
+And we all remember
+the first TV ads.
+
+
+31
+00:01:55,146 --> 00:01:56,706
+They were 30-second slots.
+
+
+32
+00:01:57,446 --> 00:01:59,636
+And in those 30-second
+slots, you had five
+
+
+33
+00:01:59,636 --> 00:02:01,316
+or six apps that were featured.
+
+
+34
+00:02:02,156 --> 00:02:05,436
+And so each app had five
+seconds to audition with you,
+
+
+35
+00:02:05,436 --> 00:02:07,766
+the customer -- with
+you, the audience.
+
+
+36
+00:02:08,726 --> 00:02:10,446
+And to make an impression
+
+
+37
+00:02:10,645 --> 00:02:12,556
+in five seconds is
+a pretty big deal.
+
+
+38
+00:02:12,556 --> 00:02:18,016
+But what happened in those ads
+was people would watch the ads
+
+
+39
+00:02:18,016 --> 00:02:20,286
+and they would stop
+everything that they were doing
+
+
+40
+00:02:20,286 --> 00:02:22,626
+and they would pay attention to
+the app that was being shown.
+
+
+41
+00:02:22,626 --> 00:02:23,866
+And within five seconds,
+
+
+42
+00:02:23,866 --> 00:02:25,746
+they would have decided
+whether it mattered to them
+
+
+43
+00:02:25,746 --> 00:02:28,816
+and if they were going to go
+and download it or buy it.
+
+
+44
+00:02:28,816 --> 00:02:30,266
+And I think that's
+pretty impressive.
+
+
+45
+00:02:30,266 --> 00:02:34,826
+And those apps -- basically, it
+was those TV ads and those apps
+
+
+46
+00:02:35,026 --> 00:02:38,356
+that created the phrase,
+"There's an app for that."
+
+
+47
+00:02:38,356 --> 00:02:39,796
+And that phrase was born.
+
+
+48
+00:02:40,376 --> 00:02:43,086
+And it was during
+that time way early
+
+
+49
+00:02:43,086 --> 00:02:45,286
+on that we saw enormous
+creativity.
+
+
+50
+00:02:45,286 --> 00:02:47,646
+I mean, we didn't have
+this thing before.
+
+
+51
+00:02:47,756 --> 00:02:48,476
+iPhone was out.
+
+
+52
+00:02:48,476 --> 00:02:49,946
+We had this SDK.
+
+
+53
+00:02:49,946 --> 00:02:51,106
+We didn't have that before.
+
+
+54
+00:02:51,106 --> 00:02:52,856
+And we saw enormous creativity.
+
+
+55
+00:02:53,006 --> 00:02:55,996
+We saw great games,
+really useful
+
+
+56
+00:02:55,996 --> 00:02:57,806
+and very valuable utilities,
+
+
+57
+00:02:58,086 --> 00:03:00,536
+some pretty incredible
+augmented reality,
+
+
+58
+00:03:00,976 --> 00:03:03,086
+and lots of other great stuff,
+
+
+59
+00:03:03,086 --> 00:03:05,056
+much of which was
+really groundbreaking.
+
+
+60
+00:03:05,606 --> 00:03:11,166
+And then, two years later,
+the iPad was introduced.
+
+
+61
+00:03:11,166 --> 00:03:13,376
+And it was introduced
+not far from here
+
+
+62
+00:03:13,376 --> 00:03:15,486
+at the Yerba Buena
+Center of the Arts.
+
+
+63
+00:03:15,486 --> 00:03:16,936
+And I remember that day.
+
+
+64
+00:03:16,936 --> 00:03:18,656
+It was an incredible day.
+
+
+65
+00:03:19,156 --> 00:03:22,106
+But when the iPad
+arrived in 2010,
+
+
+66
+00:03:22,306 --> 00:03:24,606
+it brought a whole
+new wave of apps.
+
+
+67
+00:03:25,116 --> 00:03:28,376
+And these were apps that
+stopped us in our tracks.
+
+
+68
+00:03:28,376 --> 00:03:32,186
+I mean these were apps that,
+when we first saw them,
+
+
+69
+00:03:32,186 --> 00:03:35,186
+they caused us to
+pause and to be amazed
+
+
+70
+00:03:35,546 --> 00:03:36,846
+at what could be
+done on this device.
+
+
+71
+00:03:36,846 --> 00:03:39,816
+And then we had universal
+apps coming
+
+
+72
+00:03:39,816 --> 00:03:42,576
+and bringing functionality
+from iPad back to iPhone,
+
+
+73
+00:03:42,576 --> 00:03:44,816
+and the experience of all
+of the apps got better.
+
+
+74
+00:03:45,666 --> 00:03:50,646
+And all of these apps early on
+changed the way that we taught.
+
+
+75
+00:03:51,196 --> 00:03:53,936
+They changed the way that
+people learned with iPad.
+
+
+76
+00:03:54,376 --> 00:03:57,166
+They changed the way that we
+shared, that we connected,
+
+
+77
+00:03:57,166 --> 00:04:00,556
+that we worked, and that
+we spent our day getting
+
+
+78
+00:04:00,556 --> 00:04:01,536
+things done.
+
+
+79
+00:04:02,376 --> 00:04:04,336
+These were transformational
+apps.
+
+
+80
+00:04:05,226 --> 00:04:06,286
+And then more recently,
+
+
+81
+00:04:06,286 --> 00:04:10,436
+Apple Watch was introduced,
+and Apple TV.
+
+
+82
+00:04:10,436 --> 00:04:13,526
+And with each of these, we
+saw a new wave of apps coming.
+
+
+83
+00:04:15,106 --> 00:04:17,266
+And so now, as you've
+heard several times today,
+
+
+84
+00:04:17,576 --> 00:04:20,016
+we've got four platforms
+for you.
+
+
+85
+00:04:20,616 --> 00:04:21,896
+And this is amazing.
+
+
+86
+00:04:22,196 --> 00:04:24,836
+I mean, for me, being
+at Apple 16 years,
+
+
+87
+00:04:24,836 --> 00:04:26,496
+I remember when it
+was just the Mac
+
+
+88
+00:04:26,806 --> 00:04:29,246
+and there was some
+great work going on.
+
+
+89
+00:04:29,886 --> 00:04:34,776
+And then everything took
+off, and now the Mac is part
+
+
+90
+00:04:34,776 --> 00:04:36,416
+of that whole ecosystem.
+
+
+91
+00:04:36,416 --> 00:04:39,046
+And there's a tremendous
+opportunity for you
+
+
+92
+00:04:39,246 --> 00:04:40,746
+with these four platforms.
+
+
+93
+00:04:41,136 --> 00:04:43,776
+And we're starting to see
+some really great work
+
+
+94
+00:04:43,776 --> 00:04:46,036
+from developers on
+these four platforms,
+
+
+95
+00:04:46,656 --> 00:04:48,556
+and a few of those will
+be honored here tonight.
+
+
+96
+00:04:49,856 --> 00:04:53,156
+Now, tonight's winners
+have created apps that are,
+
+
+97
+00:04:53,326 --> 00:04:57,216
+once again, that set a
+benchmark for excellence.
+
+
+98
+00:04:58,226 --> 00:05:01,726
+And they set a benchmark
+for excellence in usability,
+
+
+99
+00:05:03,176 --> 00:05:11,586
+excellence in design, excellent
+innovation, and excellence
+
+
+100
+00:05:11,586 --> 00:05:12,846
+in technology adoption.
+
+
+101
+00:05:13,526 --> 00:05:16,286
+And if you've been part of
+the Apple Design Awards before
+
+
+102
+00:05:16,286 --> 00:05:18,036
+or ever heard me speak, you know
+
+
+103
+00:05:18,036 --> 00:05:20,816
+that that's not all
+there is to a great app.
+
+
+104
+00:05:21,026 --> 00:05:24,006
+There's even more that we
+look for in winning apps.
+
+
+105
+00:05:24,446 --> 00:05:27,086
+We're always looking for
+whether the app is compelling
+
+
+106
+00:05:27,086 --> 00:05:29,176
+and leaves a great
+first impression.
+
+
+107
+00:05:29,856 --> 00:05:32,476
+We're always looking for
+whether an app is engaging,
+
+
+108
+00:05:32,716 --> 00:05:35,646
+meaning it draws you
+in and keeps you there,
+
+
+109
+00:05:35,646 --> 00:05:38,096
+and then gets you coming
+back again and again.
+
+
+110
+00:05:38,706 --> 00:05:40,166
+That's a big challenge for apps.
+
+
+111
+00:05:41,296 --> 00:05:43,576
+We look for apps that are
+enabling, that allow you
+
+
+112
+00:05:43,576 --> 00:05:45,866
+to do things you
+could never do before.
+
+
+113
+00:05:46,346 --> 00:05:49,046
+We're looking for
+state-of-the-art apps of course.
+
+
+114
+00:05:49,136 --> 00:05:51,126
+We're looking for
+accessible apps.
+
+
+115
+00:05:51,126 --> 00:05:52,976
+We're looking for
+localized apps.
+
+
+116
+00:05:52,976 --> 00:05:55,606
+Because accessible and
+localized apps mean
+
+
+117
+00:05:55,606 --> 00:05:58,326
+that those apps are available
+to an even wider audience
+
+
+118
+00:05:58,726 --> 00:06:02,026
+than they were prior to being
+accessible and localized.
+
+
+119
+00:06:02,026 --> 00:06:04,556
+And so there's a lot
+of stuff that we look
+
+
+120
+00:06:04,626 --> 00:06:07,696
+for in winning apps, and these
+are just some of the things
+
+
+121
+00:06:07,856 --> 00:06:09,226
+that we watch for
+in winning apps.
+
+
+122
+00:06:09,956 --> 00:06:11,346
+So let's get started.
+
+
+123
+00:06:11,346 --> 00:06:15,036
+Let's start with apps that
+were written by students.
+
+
+124
+00:06:15,956 --> 00:06:21,526
+So you've heard today that we
+had 350 scholarship winners this
+
+
+125
+00:06:21,526 --> 00:06:23,886
+year at WWDC, which
+is a record number.
+
+
+126
+00:06:24,536 --> 00:06:27,296
+And these folks, these
+students, had to submit an app.
+
+
+127
+00:06:27,606 --> 00:06:29,226
+As part of the scholarship
+process,
+
+
+128
+00:06:29,516 --> 00:06:32,506
+they had to submit an app that
+was either written explicitly
+
+
+129
+00:06:32,506 --> 00:06:35,156
+for the scholarship
+selection process,
+
+
+130
+00:06:35,156 --> 00:06:37,066
+or they could just
+tell us about an app
+
+
+131
+00:06:37,116 --> 00:06:38,916
+that they had already
+developed and put on --
+
+
+132
+00:06:38,916 --> 00:06:41,036
+that was already
+on the App Store.
+
+
+133
+00:06:41,036 --> 00:06:42,576
+And we looked through
+all these apps
+
+
+134
+00:06:42,576 --> 00:06:44,436
+and we found some
+pretty cool stuff.
+
+
+135
+00:06:45,306 --> 00:06:47,906
+So tonight we want to
+award two student winners.
+
+
+136
+00:06:48,556 --> 00:06:52,966
+And the first is Linum by
+Joaquin Vila from Mexico.
+
+
+137
+00:06:53,516 --> 00:07:11,896
+[ Applause ]
+
+
+138
+00:07:12,396 --> 00:07:12,736
+>> Thanks so much.
+
+
+139
+00:07:12,786 --> 00:07:13,316
+>> You're welcome.
+
+
+140
+00:07:14,516 --> 00:07:20,846
+[ Music ]
+
+
+141
+00:07:21,346 --> 00:07:25,526
+All right, so Joaquin
+started developing this app
+
+
+142
+00:07:25,776 --> 00:07:29,106
+after he had applied for a
+job at a local game developer,
+
+
+143
+00:07:29,106 --> 00:07:30,426
+and that hadn't worked out.
+
+
+144
+00:07:30,666 --> 00:07:32,976
+And he decided after
+that that, like,
+
+
+145
+00:07:33,466 --> 00:07:35,676
+he could just do
+this on his own.
+
+
+146
+00:07:35,796 --> 00:07:37,536
+He didn't need to work
+for no other developer.
+
+
+147
+00:07:37,656 --> 00:07:41,846
+So he decided to write his own
+app, get it on the App Store.
+
+
+148
+00:07:42,146 --> 00:07:45,556
+And I'd like to show
+you this app.
+
+
+149
+00:07:45,676 --> 00:07:47,546
+And before I do, I just wanted
+
+
+150
+00:07:47,546 --> 00:07:52,036
+to say Joaquin was a 2015
+Scholarship Winner last year
+
+
+151
+00:07:52,126 --> 00:07:53,746
+at WWDC, so probably
+learned a lot
+
+
+152
+00:07:53,746 --> 00:07:56,646
+about what you used
+in the app last year.
+
+
+153
+00:07:56,646 --> 00:08:00,726
+And he's also super active in
+the local developer community
+
+
+154
+00:08:00,726 --> 00:08:02,146
+in many of the meetups
+in his hometown.
+
+
+155
+00:08:02,146 --> 00:08:07,156
+All right, so I'm just going to
+show you this on this screen.
+
+
+156
+00:08:07,156 --> 00:08:09,616
+So what you're seeing here
+is Linum is a puzzle game
+
+
+157
+00:08:09,796 --> 00:08:12,036
+where the goal is
+to complete levels
+
+
+158
+00:08:12,036 --> 00:08:13,606
+in the fewest moves possible.
+
+
+159
+00:08:13,606 --> 00:08:17,566
+And what you're trying to do is
+take these line nodes and lines
+
+
+160
+00:08:17,566 --> 00:08:21,086
+and pivot them around to connect
+with nodes to solve the puzzles.
+
+
+161
+00:08:21,556 --> 00:08:23,396
+And as the number
+of nodes increases,
+
+
+162
+00:08:23,696 --> 00:08:26,246
+complex puzzles challenge
+even the best players.
+
+
+163
+00:08:26,246 --> 00:08:30,346
+And the beauty of Linum
+is its simplicity.
+
+
+164
+00:08:30,346 --> 00:08:33,035
+It's got a clean UI and
+a simple set of rules.
+
+
+165
+00:08:33,035 --> 00:08:35,736
+And with a smart
+implementation of touch
+
+
+166
+00:08:36,046 --> 00:08:37,986
+and approachable
+progression system,
+
+
+167
+00:08:38,356 --> 00:08:41,966
+terrific overall presentation
+and use of Apple technologies,
+
+
+168
+00:08:42,405 --> 00:08:45,816
+Linum is without doubt an
+Apple Design Award Winner
+
+
+169
+00:08:45,816 --> 00:08:46,306
+for a student.
+
+
+170
+00:08:46,306 --> 00:08:46,926
+So, congratulations.
+
+
+171
+00:08:47,516 --> 00:08:56,606
+[ Applause ]
+
+
+172
+00:08:57,106 --> 00:08:57,436
+All right.
+
+
+173
+00:08:57,436 --> 00:09:01,136
+And our second student
+winner tonight is Dividr
+
+
+174
+00:09:01,326 --> 00:09:04,976
+by Josh Deichmann, Patrick
+Pistor, and Erik Lydick.
+
+
+175
+00:09:05,516 --> 00:09:13,686
+[ Applause ]
+
+
+176
+00:09:14,186 --> 00:09:14,646
+Congratulations.
+
+
+177
+00:09:15,516 --> 00:09:20,556
+[ Music ]
+
+
+178
+00:09:21,056 --> 00:09:22,556
+So I guess just one of
+you are here today, yeah?
+
+
+179
+00:09:23,066 --> 00:09:23,186
+>> Yeah.
+
+
+180
+00:09:23,896 --> 00:09:24,536
+>> No problem.
+
+
+181
+00:09:24,536 --> 00:09:25,146
+There's three guys.
+
+
+182
+00:09:25,316 --> 00:09:29,746
+So all three of these guys, one
+of whom is here, are students
+
+
+183
+00:09:29,746 --> 00:09:31,706
+at the Rochester
+Institute of Technology
+
+
+184
+00:09:31,706 --> 00:09:32,936
+in Northern New York State.
+
+
+185
+00:09:33,366 --> 00:09:37,676
+And at RIT, they went to an iOS
+development challenge earlier
+
+
+186
+00:09:37,676 --> 00:09:38,146
+this year.
+
+
+187
+00:09:38,146 --> 00:09:39,106
+And it was at that event
+
+
+188
+00:09:39,106 --> 00:09:41,906
+that they started
+working on this game.
+
+
+189
+00:09:41,906 --> 00:09:43,656
+And Josh is the programmer.
+
+
+190
+00:09:43,656 --> 00:09:44,226
+Is it Josh?
+
+
+191
+00:09:44,366 --> 00:09:44,516
+>> Yeah.
+
+
+192
+00:09:44,516 --> 00:09:45,656
+>> Yeah, Josh is the programmer.
+
+
+193
+00:09:45,876 --> 00:09:47,276
+Patrick is the designer.
+
+
+194
+00:09:47,276 --> 00:09:50,946
+And Erik is the guy who created
+the soundtrack for the game
+
+
+195
+00:09:51,226 --> 00:09:53,826
+but also kind of kept you
+guys on track, you know,
+
+
+196
+00:09:53,826 --> 00:09:55,126
+in terms of development.
+
+
+197
+00:09:55,356 --> 00:10:00,166
+So let me just show you
+this game for a minute.
+
+
+198
+00:10:00,216 --> 00:10:05,516
+So Dividr is this fun and
+addicting 2D arcade game.
+
+
+199
+00:10:05,516 --> 00:10:09,046
+And it makes use of 3D
+touch of variant pressure
+
+
+200
+00:10:09,316 --> 00:10:13,856
+to move the control
+squares in and out depending
+
+
+201
+00:10:13,856 --> 00:10:15,606
+on the pressure that
+you apply to the screen.
+
+
+202
+00:10:15,896 --> 00:10:18,086
+So the more pressure you
+apply, the further out they go.
+
+
+203
+00:10:18,316 --> 00:10:20,316
+The lighter on you are,
+the closer in they go.
+
+
+204
+00:10:20,426 --> 00:10:24,546
+And you're basically avoiding
+these obstacles on screen.
+
+
+205
+00:10:25,026 --> 00:10:27,696
+It's simple and compelling,
+written entirely
+
+
+206
+00:10:27,696 --> 00:10:29,856
+in Swift, supports Game Center.
+
+
+207
+00:10:30,126 --> 00:10:32,926
+And it was, without a
+doubt, a great choice
+
+
+208
+00:10:33,036 --> 00:10:34,846
+for an Apple Design
+Award this evening.
+
+
+209
+00:10:35,416 --> 00:10:35,976
+Congratulations.
+
+
+210
+00:10:36,516 --> 00:10:39,776
+[ Applause ]
+
+
+211
+00:10:40,276 --> 00:10:40,586
+This side.
+
+
+212
+00:10:41,516 --> 00:10:43,776
+[ Applause ]
+
+
+213
+00:10:44,276 --> 00:10:44,966
+All right.
+
+
+214
+00:10:45,766 --> 00:10:48,176
+So those are our 2 winning
+apps developed by students.
+
+
+215
+00:10:49,076 --> 00:10:50,646
+Pretty great stuff.
+
+
+216
+00:10:50,646 --> 00:10:51,476
+And there were lots more.
+
+
+217
+00:10:51,476 --> 00:10:52,916
+But, you know, we've got
+to draw the line somewhere.
+
+
+218
+00:10:52,916 --> 00:10:53,926
+Not everybody can win.
+
+
+219
+00:10:54,906 --> 00:10:58,866
+All right, now let's move on
+to your main winners tonight.
+
+
+220
+00:10:59,646 --> 00:11:03,386
+We have 10 winners this
+year, and 10 winners
+
+
+221
+00:11:03,386 --> 00:11:05,176
+which are all super compelling.
+
+
+222
+00:11:05,976 --> 00:11:08,336
+They're all incredibly
+well-designed.
+
+
+223
+00:11:09,316 --> 00:11:12,306
+They're all super
+state-of-the-art.
+
+
+224
+00:11:12,306 --> 00:11:15,396
+And they're all optimized
+for the devices
+
+
+225
+00:11:15,396 --> 00:11:18,386
+that they were created
+for and for the use cases
+
+
+226
+00:11:18,556 --> 00:11:20,066
+that customers will
+face with them.
+
+
+227
+00:11:21,486 --> 00:11:23,236
+And so let's begin.
+
+
+228
+00:11:23,326 --> 00:11:24,846
+The first Apple Design
+Award Winner
+
+
+229
+00:11:24,846 --> 00:11:28,936
+for 2016 is Frame.io
+by Frame.io, Inc.
+
+
+230
+00:11:28,936 --> 00:11:29,916
+from New York City.
+
+
+231
+00:11:30,516 --> 00:11:41,516
+[ Applause ]
+
+
+232
+00:11:42,516 --> 00:11:49,546
+[ Music ]
+
+
+233
+00:11:50,046 --> 00:11:50,476
+Congratulations.
+
+
+234
+00:11:50,476 --> 00:11:51,996
+Great job, guys.
+
+
+235
+00:11:52,996 --> 00:11:55,636
+Great to meet you.
+
+
+236
+00:11:56,516 --> 00:12:01,746
+[ Music ]
+
+
+237
+00:12:02,246 --> 00:12:05,736
+All right, so Frame.io is a
+video collaboration platform
+
+
+238
+00:12:05,736 --> 00:12:08,126
+for teens working
+together on film or video.
+
+
+239
+00:12:08,126 --> 00:12:12,886
+And it lets these teens easily
+share files, give feedback,
+
+
+240
+00:12:13,246 --> 00:12:17,336
+review clips, approve media,
+and do a whole ton of stuff
+
+
+241
+00:12:17,336 --> 00:12:19,296
+in that creative pro workflow.
+
+
+242
+00:12:19,296 --> 00:12:23,706
+And it turns out that it's
+really hard to do this right.
+
+
+243
+00:12:24,306 --> 00:12:28,116
+And Frame.io nails it
+by filling a big gap
+
+
+244
+00:12:28,116 --> 00:12:32,036
+in the creator pro workflow by
+solving this complicated task.
+
+
+245
+00:12:32,756 --> 00:12:35,186
+And to give you a better
+idea of how this app works,
+
+
+246
+00:12:35,486 --> 00:12:37,526
+I'd like to ask Michael
+to demo it to us now.
+
+
+247
+00:12:38,216 --> 00:12:38,746
+>> Thank you, John.
+
+
+248
+00:12:39,296 --> 00:12:42,296
+So this is a typical
+project in Frame.io.
+
+
+249
+00:12:42,296 --> 00:12:45,496
+Now it's really media-centric,
+so you can see all the media
+
+
+250
+00:12:45,496 --> 00:12:47,576
+in the lower half of the view.
+
+
+251
+00:12:48,046 --> 00:12:48,726
+Now -- whoops.
+
+
+252
+00:12:50,286 --> 00:12:54,296
+So basically what they've
+done here is they've made a
+
+
+253
+00:12:54,296 --> 00:12:57,626
+UICollectionViewFlowLayout
+with UIKit dynamics,
+
+
+254
+00:12:57,946 --> 00:13:00,386
+and that really makes
+this view come alive.
+
+
+255
+00:13:00,386 --> 00:13:03,816
+Now at the top, you can see
+all the project participants.
+
+
+256
+00:13:04,266 --> 00:13:07,086
+Now this is a really fun
+and interactive animation.
+
+
+257
+00:13:07,916 --> 00:13:10,286
+And that's really cool,
+and I can do it slow.
+
+
+258
+00:13:10,286 --> 00:13:10,716
+There we go.
+
+
+259
+00:13:10,776 --> 00:13:12,696
+And that's using core animation
+
+
+260
+00:13:12,696 --> 00:13:14,076
+with custom curves
+and key frames.
+
+
+261
+00:13:14,416 --> 00:13:17,006
+That opens up to a table
+list view where I can swipe
+
+
+262
+00:13:17,326 --> 00:13:20,726
+to remove someone from a project
+or leave the project myself.
+
+
+263
+00:13:21,956 --> 00:13:25,556
+Now the media player is
+really key to Frame.io.
+
+
+264
+00:13:26,046 --> 00:13:28,696
+And so what they've done here
+is they've implemented 3D touch,
+
+
+265
+00:13:29,446 --> 00:13:30,956
+and they've done this in a
+number of different ways.
+
+
+266
+00:13:31,236 --> 00:13:33,126
+The first one is a feature
+they call Touch Scrub.
+
+
+267
+00:13:33,126 --> 00:13:37,986
+So on this clip of this mountain
+-- all I'm going to do is scrub
+
+
+268
+00:13:38,126 --> 00:13:40,046
+across this clip very lightly.
+
+
+269
+00:13:40,046 --> 00:13:41,176
+And you can see I
+get an overview
+
+
+270
+00:13:41,176 --> 00:13:42,536
+of the clip really quickly.
+
+
+271
+00:13:43,196 --> 00:13:45,036
+Now the other thing that they've
+done is they've gone deeper
+
+
+272
+00:13:45,036 --> 00:13:46,246
+and implemented peak and pop.
+
+
+273
+00:13:46,396 --> 00:13:48,636
+So on this clip, I'm
+going to push gently.
+
+
+274
+00:13:48,756 --> 00:13:49,486
+That peaks in.
+
+
+275
+00:13:49,936 --> 00:13:50,896
+And now watch this.
+
+
+276
+00:13:50,896 --> 00:13:53,766
+When I pop, it goes
+to the same frame
+
+
+277
+00:13:53,766 --> 00:13:55,546
+into a new view --
+the Comment View.
+
+
+278
+00:13:55,546 --> 00:13:56,556
+Pretty cool stuff.
+
+
+279
+00:13:57,416 --> 00:13:59,236
+Now the Comment View is
+
+
+280
+00:13:59,236 --> 00:14:01,666
+where all the project
+participants come in
+
+
+281
+00:14:01,666 --> 00:14:02,786
+and actually collaborate.
+
+
+282
+00:14:03,126 --> 00:14:04,976
+All these comments
+are time-synchronized.
+
+
+283
+00:14:04,976 --> 00:14:07,956
+So when I touch something,
+it actually goes to the frame
+
+
+284
+00:14:07,956 --> 00:14:08,956
+where the comment was made.
+
+
+285
+00:14:09,386 --> 00:14:12,326
+You'll also notice that all
+the commenter's pictures turn
+
+
+286
+00:14:12,326 --> 00:14:13,026
+to a Play button.
+
+
+287
+00:14:13,026 --> 00:14:15,556
+So for example, here you
+can see that Play button.
+
+
+288
+00:14:15,556 --> 00:14:17,696
+If I touch the Play
+button, it's a feature
+
+
+289
+00:14:17,696 --> 00:14:20,316
+that they call Comment Replay
+
+
+290
+00:14:20,316 --> 00:14:22,536
+where it will start
+playing two seconds before
+
+
+291
+00:14:22,536 --> 00:14:23,766
+and two seconds after.
+
+
+292
+00:14:23,766 --> 00:14:28,016
+And then where the comment
+is, the comment flashes
+
+
+293
+00:14:28,016 --> 00:14:29,216
+and the phone will vibrate.
+
+
+294
+00:14:29,256 --> 00:14:29,976
+One more time.
+
+
+295
+00:14:30,336 --> 00:14:31,386
+And here's the comment.
+
+
+296
+00:14:31,966 --> 00:14:32,986
+That's where it is.
+
+
+297
+00:14:33,676 --> 00:14:38,136
+So I'm going to let this video
+play out just a little bit
+
+
+298
+00:14:38,136 --> 00:14:39,886
+because I know that there's
+something wrong in here --
+
+
+299
+00:14:40,516 --> 00:14:43,146
+and there's a lion
+in my surf video.
+
+
+300
+00:14:44,116 --> 00:14:45,356
+You know, like, really?
+
+
+301
+00:14:45,496 --> 00:14:50,226
+So I'm going to put my
+comment in, but I'm also going
+
+
+302
+00:14:50,226 --> 00:14:53,636
+to go ahead and annotate
+and send that comment along.
+
+
+303
+00:14:55,676 --> 00:14:58,496
+So this app is incredible.
+
+
+304
+00:14:58,576 --> 00:14:59,986
+It's written entirely in Swift.
+
+
+305
+00:14:59,986 --> 00:15:01,466
+It's using the latest tools.
+
+
+306
+00:15:01,466 --> 00:15:04,006
+It's using multiple storyboards,
+storyboard references,
+
+
+307
+00:15:04,066 --> 00:15:05,646
+auto layout, size classes.
+
+
+308
+00:15:05,706 --> 00:15:07,186
+Did I mention it
+was done in Swift?
+
+
+309
+00:15:07,746 --> 00:15:10,776
+Did I mention that this
+is their first iOS app?
+
+
+310
+00:15:10,776 --> 00:15:11,856
+This is a really great app.
+
+
+311
+00:15:11,856 --> 00:15:12,986
+Congratulations to the team.
+
+
+312
+00:15:12,986 --> 00:15:13,976
+Back to you, John.
+
+
+313
+00:15:14,516 --> 00:15:21,226
+[ Applause ]
+
+
+314
+00:15:21,726 --> 00:15:26,896
+>> Yeah, so Frame.io
+is a great app.
+
+
+315
+00:15:27,806 --> 00:15:28,646
+We love this app.
+
+
+316
+00:15:29,016 --> 00:15:30,566
+Hitting the wrong button here,
+
+
+317
+00:15:30,566 --> 00:15:32,236
+that's why we're
+messing up here.
+
+
+318
+00:15:32,866 --> 00:15:33,346
+Apologies.
+
+
+319
+00:15:34,926 --> 00:15:35,576
+We love this app.
+
+
+320
+00:15:35,756 --> 00:15:36,796
+Congratulations, guys.
+
+
+321
+00:15:37,346 --> 00:15:39,926
+You've solved a really big
+problem in a very elegant way.
+
+
+322
+00:15:41,516 --> 00:15:47,886
+[ Applause ]
+
+
+323
+00:15:48,386 --> 00:15:51,286
+All right, our second
+winner tonight is a game.
+
+
+324
+00:15:51,286 --> 00:15:55,716
+And it is Chameleon Run by
+Jan Ilavsky and published
+
+
+325
+00:15:55,716 --> 00:15:57,976
+by Noodlecake Studios
+from Canada.
+
+
+326
+00:15:58,516 --> 00:16:05,566
+[ Applause ]
+
+
+327
+00:16:06,066 --> 00:16:06,456
+>> Thank you.
+
+
+328
+00:16:07,516 --> 00:16:14,686
+[ Music ]
+
+
+329
+00:16:15,186 --> 00:16:17,376
+>> It's just great to
+watch some of these photos
+
+
+330
+00:16:17,376 --> 00:16:19,076
+to see people's studios.
+
+
+331
+00:16:19,306 --> 00:16:22,606
+I mean, we were amazed as we
+looked through some of the shots
+
+
+332
+00:16:22,606 --> 00:16:23,546
+from the winners tonight.
+
+
+333
+00:16:23,726 --> 00:16:26,916
+The places in which you
+work are super creative.
+
+
+334
+00:16:28,066 --> 00:16:31,246
+And we couldn't get
+enough of this game.
+
+
+335
+00:16:31,246 --> 00:16:36,056
+With a great soundtrack, fun
+sound effects, super intuitive
+
+
+336
+00:16:36,056 --> 00:16:39,256
+and natural controls
+and great performance,
+
+
+337
+00:16:39,576 --> 00:16:41,536
+Chameleon Run is an
+Apple Design Award Winner
+
+
+338
+00:16:41,536 --> 00:16:43,286
+that you are not going
+to want to put down.
+
+
+339
+00:16:43,846 --> 00:16:47,666
+And to show you this game, I'd
+like to ask Allan and Mark.
+
+
+340
+00:16:48,416 --> 00:16:51,976
+>> Great. So thank you, John.
+
+
+341
+00:16:52,216 --> 00:16:52,876
+Hello, everyone.
+
+
+342
+00:16:53,176 --> 00:16:56,576
+Chameleon Run is
+a super fast-paced
+
+
+343
+00:16:56,576 --> 00:16:58,966
+and very challenging auto-runner
+
+
+344
+00:16:59,306 --> 00:17:02,006
+with a twist that's
+based on color.
+
+
+345
+00:17:02,006 --> 00:17:04,566
+And it has a really
+stunning visual presentation
+
+
+346
+00:17:04,566 --> 00:17:05,776
+which we'd like to show you now.
+
+
+347
+00:17:06,425 --> 00:17:08,026
+My colleague, Mark,
+is joining us.
+
+
+348
+00:17:08,256 --> 00:17:10,925
+He's going to play while I
+tell you about this game.
+
+
+349
+00:17:10,996 --> 00:17:13,846
+So the objective of
+Chameleon Run is to make it
+
+
+350
+00:17:13,846 --> 00:17:15,726
+through the level in
+the best possible time.
+
+
+351
+00:17:15,726 --> 00:17:18,276
+And Mark is jumping from
+platform to platform.
+
+
+352
+00:17:18,445 --> 00:17:21,616
+But if you notice, when he lands
+on a platform, sometimes he has
+
+
+353
+00:17:21,925 --> 00:17:24,286
+to switch the character's color
+
+
+354
+00:17:24,566 --> 00:17:26,636
+to match the platform
+he's landing on.
+
+
+355
+00:17:26,636 --> 00:17:28,566
+And that becomes
+very challenging
+
+
+356
+00:17:28,566 --> 00:17:30,696
+as you make your way
+through this game.
+
+
+357
+00:17:31,476 --> 00:17:33,226
+OK, so that was a
+very easy level.
+
+
+358
+00:17:33,226 --> 00:17:34,896
+Let's do it one more time
+because I want to point
+
+
+359
+00:17:34,896 --> 00:17:36,916
+out a couple more
+things on this level,
+
+
+360
+00:17:37,066 --> 00:17:39,226
+especially the rendering
+effects.
+
+
+361
+00:17:39,266 --> 00:17:42,306
+That was something that we
+really loved about this game.
+
+
+362
+00:17:42,306 --> 00:17:45,176
+If you take a look at the
+depth of field with the objects
+
+
+363
+00:17:45,176 --> 00:17:48,516
+in the background, the
+shock waves coming off
+
+
+364
+00:17:48,516 --> 00:17:51,016
+of the character, and
+also the smoke trails
+
+
+365
+00:17:51,016 --> 00:17:52,726
+and just the particle effect.
+
+
+366
+00:17:52,726 --> 00:17:55,706
+We thought that all of that
+really added something visually
+
+
+367
+00:17:55,706 --> 00:17:56,606
+to this game.
+
+
+368
+00:17:57,106 --> 00:17:58,686
+But, OK, so we did
+very well there.
+
+
+369
+00:17:58,686 --> 00:17:59,846
+That was an easy level.
+
+
+370
+00:17:59,846 --> 00:18:00,856
+And now Mark is going to go
+
+
+371
+00:18:00,856 --> 00:18:04,006
+for something much,
+much more difficult.
+
+
+372
+00:18:04,376 --> 00:18:06,126
+Go all the way.
+
+
+373
+00:18:06,246 --> 00:18:07,616
+All right, here we go.
+
+
+374
+00:18:07,616 --> 00:18:09,146
+Level 15, The End is Near.
+
+
+375
+00:18:09,886 --> 00:18:13,016
+And let me tell you a little bit
+about why we chose this game.
+
+
+376
+00:18:13,086 --> 00:18:17,156
+So first of all, as I said,
+we love the visual style
+
+
+377
+00:18:17,156 --> 00:18:20,426
+and just the vibrancy of
+the colors in this game.
+
+
+378
+00:18:20,426 --> 00:18:24,716
+And it was so clear that so
+much care and iteration went
+
+
+379
+00:18:24,716 --> 00:18:27,166
+into the construction
+of the levels
+
+
+380
+00:18:27,166 --> 00:18:30,156
+and just fine-tuning
+this content.
+
+
+381
+00:18:30,936 --> 00:18:33,296
+Then the second thing --
+Mark is doing very well.
+
+
+382
+00:18:33,296 --> 00:18:33,666
+All right.
+
+
+383
+00:18:33,826 --> 00:18:34,256
+Nice.
+
+
+384
+00:18:35,516 --> 00:18:41,136
+[ Applause ]
+
+
+385
+00:18:41,636 --> 00:18:42,566
+Do it again.
+
+
+386
+00:18:42,566 --> 00:18:42,936
+Go for it.
+
+
+387
+00:18:43,466 --> 00:18:48,486
+So the second thing
+is the replayability.
+
+
+388
+00:18:49,766 --> 00:18:54,756
+Yeah, OK, that's me playing
+now -- most of the time.
+
+
+389
+00:18:54,816 --> 00:18:57,576
+So the replayability in this
+game is just phenomenal.
+
+
+390
+00:18:57,906 --> 00:19:00,346
+Most of these levels have
+in effect a high road
+
+
+391
+00:19:00,346 --> 00:19:01,636
+and a low road that
+you can take.
+
+
+392
+00:19:01,636 --> 00:19:03,116
+You sort of can go up and down
+
+
+393
+00:19:03,256 --> 00:19:05,666
+as you're progressing
+through the level.
+
+
+394
+00:19:05,996 --> 00:19:09,366
+But the game really
+encourages you to go back
+
+
+395
+00:19:09,476 --> 00:19:11,716
+and play the levels
+over and over again.
+
+
+396
+00:19:11,716 --> 00:19:14,046
+Maybe the first time through
+you're going for time.
+
+
+397
+00:19:14,326 --> 00:19:16,846
+But then it unlocks
+different objectives
+
+
+398
+00:19:17,226 --> 00:19:20,846
+to collect all the crystals or
+to go entirely through the level
+
+
+399
+00:19:20,886 --> 00:19:24,106
+without switching your color,
+which imagine how difficult
+
+
+400
+00:19:24,106 --> 00:19:26,576
+that would be on a level
+like the one we just saw.
+
+
+401
+00:19:26,716 --> 00:19:30,636
+And the third thing about this
+game is that this is a game
+
+
+402
+00:19:30,636 --> 00:19:32,346
+that is great on
+your iPhone and iPad,
+
+
+403
+00:19:32,396 --> 00:19:35,446
+but it is awesome
+on your Apple TV.
+
+
+404
+00:19:35,656 --> 00:19:38,196
+We love how this plays
+with the Siri Remote.
+
+
+405
+00:19:38,196 --> 00:19:39,686
+That's what Mark is using now.
+
+
+406
+00:19:39,916 --> 00:19:42,416
+It also plays great
+with an MFi controller.
+
+
+407
+00:19:43,026 --> 00:19:45,776
+And it's just one of these
+games that is just fantastic
+
+
+408
+00:19:45,966 --> 00:19:49,576
+when you see it on the big
+screen in your living room.
+
+
+409
+00:19:49,876 --> 00:19:51,126
+So that's Chameleon Run.
+
+
+410
+00:19:51,206 --> 00:19:52,466
+It supports Game Center.
+
+
+411
+00:19:52,616 --> 00:19:55,856
+It's localized in 8 languages,
+and it's a premium title.
+
+
+412
+00:19:56,336 --> 00:19:57,706
+Just pay once and play.
+
+
+413
+00:19:58,026 --> 00:19:59,276
+So, congratulations.
+
+
+414
+00:19:59,306 --> 00:19:59,806
+Back to you, John.
+
+
+415
+00:20:00,516 --> 00:20:03,546
+[ Applause ]
+
+
+416
+00:20:04,046 --> 00:20:04,516
+>> Thanks, Allan.
+
+
+417
+00:20:04,516 --> 00:20:05,176
+Thanks, Mark.
+
+
+418
+00:20:05,506 --> 00:20:08,036
+That's Chameleon Run --
+a super engaging game
+
+
+419
+00:20:08,036 --> 00:20:09,746
+that you'll be playing
+again and again.
+
+
+420
+00:20:10,116 --> 00:20:14,976
+All right, our next winner
+is Auxy Music Creation
+
+
+421
+00:20:14,976 --> 00:20:15,956
+by Auxy from Sweden.
+
+
+422
+00:20:16,516 --> 00:20:25,516
+[ Applause ]
+
+
+423
+00:20:26,516 --> 00:20:40,546
+[ Music ]
+
+
+424
+00:20:41,046 --> 00:20:44,216
+Auxy Music Creation is an
+audio creation app for iPad.
+
+
+425
+00:20:44,276 --> 00:20:46,086
+And the Auxy team realized
+
+
+426
+00:20:46,086 --> 00:20:49,376
+that electronic music was going
+mainstream, and so they sat down
+
+
+427
+00:20:49,376 --> 00:20:53,056
+and started to develop this app
+that allowed electronic fans
+
+
+428
+00:20:53,416 --> 00:20:56,966
+to create some of their own
+tracks on an iOS device.
+
+
+429
+00:20:57,516 --> 00:20:59,586
+And this is a super
+compelling app
+
+
+430
+00:21:00,256 --> 00:21:02,216
+with a clean minimalist style.
+
+
+431
+00:21:02,716 --> 00:21:07,696
+And honestly inside of this
+app, it's almost impossible
+
+
+432
+00:21:07,696 --> 00:21:10,086
+to create something that
+doesn't sound great.
+
+
+433
+00:21:10,526 --> 00:21:12,996
+No matter what you tap
+on, you get great results.
+
+
+434
+00:21:13,436 --> 00:21:17,226
+So I'd like to ask Michael
+again to show us this app.
+
+
+435
+00:21:17,946 --> 00:21:18,666
+>> Great. Thank you, John.
+
+
+436
+00:21:19,066 --> 00:21:20,606
+So the first thing
+that we really loved
+
+
+437
+00:21:20,606 --> 00:21:24,046
+about Auxy was the really subtle
+and unobtrusive onboarding.
+
+
+438
+00:21:24,396 --> 00:21:25,936
+Now I'm not locked
+out from the app.
+
+
+439
+00:21:25,936 --> 00:21:27,996
+I can go anywhere I want,
+but we'll follow the trail
+
+
+440
+00:21:27,996 --> 00:21:28,846
+and see where it leads us.
+
+
+441
+00:21:29,236 --> 00:21:31,176
+So I'll double-tap to start
+creating my first loops
+
+
+442
+00:21:31,176 --> 00:21:33,856
+and drums.
+
+
+443
+00:21:33,856 --> 00:21:36,436
+I'll start with some bass drum.
+
+
+444
+00:21:36,796 --> 00:21:38,786
+That's great.
+
+
+445
+00:21:38,786 --> 00:21:40,516
+So now it told me that
+I can move some notes
+
+
+446
+00:21:40,516 --> 00:21:43,056
+around by dragging,
+which is really handy
+
+
+447
+00:21:43,086 --> 00:21:45,256
+because I just missed that one.
+
+
+448
+00:21:45,696 --> 00:21:48,556
+So we'll do some high hat.
+
+
+449
+00:21:48,556 --> 00:21:52,396
+And notice how quick and
+how performant the UI is.
+
+
+450
+00:21:52,396 --> 00:21:53,046
+It's really cool.
+
+
+451
+00:21:53,196 --> 00:21:56,576
+OK, I'm going to add some
+tom-toms on the off beats.
+
+
+452
+00:21:58,166 --> 00:22:00,646
+That actually sounds more like
+a kettle drum than a tom-tom,
+
+
+453
+00:22:01,126 --> 00:22:04,426
+and that's great because the
+onboarding is telling me how
+
+
+454
+00:22:04,426 --> 00:22:05,176
+to change my kit.
+
+
+455
+00:22:05,326 --> 00:22:06,906
+So let's see if I can find
+something a little hipper.
+
+
+456
+00:22:07,626 --> 00:22:09,856
+Not that. Not that.
+
+
+457
+00:22:10,376 --> 00:22:12,776
+70's disco -- that's
+what I'm looking for.
+
+
+458
+00:22:13,046 --> 00:22:16,626
+OK. So now what do we
+need for 70's disco?
+
+
+459
+00:22:16,626 --> 00:22:18,006
+We need some disco base, right?
+
+
+460
+00:22:18,126 --> 00:22:23,346
+So let's add another loop.
+
+
+461
+00:22:23,346 --> 00:22:28,546
+Great. So the UI is really
+responsive because they built
+
+
+462
+00:22:28,546 --> 00:22:31,056
+on top of UIKit, and that
+is built on top of Metal.
+
+
+463
+00:22:31,176 --> 00:22:32,676
+They also went ahead
+
+
+464
+00:22:32,676 --> 00:22:34,646
+and implemented Grand
+Central Dispatch.
+
+
+465
+00:22:34,646 --> 00:22:35,796
+That really helps
+with the performance.
+
+
+466
+00:22:35,796 --> 00:22:36,966
+I'm going to add
+one more loop here.
+
+
+467
+00:22:37,516 --> 00:22:48,556
+[ Music ]
+
+
+468
+00:22:49,056 --> 00:22:50,376
+Now I can do a lot with this.
+
+
+469
+00:22:50,516 --> 00:22:52,686
+But what I'm going to do is
+I'm going to open up something
+
+
+470
+00:22:52,686 --> 00:22:54,946
+that I already have created.
+
+
+471
+00:22:55,516 --> 00:22:59,896
+And then now we can hear how
+these guys have gone ahead
+
+
+472
+00:22:59,896 --> 00:23:01,046
+and created a really,
+
+
+473
+00:23:01,096 --> 00:23:05,116
+really powerful synth
+engine on the iPad.
+
+
+474
+00:23:05,356 --> 00:23:07,176
+So let's listen to the drums.
+
+
+475
+00:23:07,706 --> 00:23:11,476
+OK, the drums really -- they
+have a lot of character.
+
+
+476
+00:23:11,726 --> 00:23:13,206
+There's a nice reverb
+tail in there.
+
+
+477
+00:23:13,206 --> 00:23:15,136
+Let's add some bass.
+
+
+478
+00:23:15,236 --> 00:23:17,836
+It's a really fat bass.
+
+
+479
+00:23:19,256 --> 00:23:19,976
+Let's add some synth.
+
+
+480
+00:23:24,846 --> 00:23:26,676
+Really rich, analog-sounding
+synth.
+
+
+481
+00:23:26,676 --> 00:23:27,976
+I'm going to play around
+with this for a little while.
+
+
+482
+00:23:28,516 --> 00:23:39,546
+[ Music ]
+
+
+483
+00:23:40,046 --> 00:23:41,096
+That's not bad.
+
+
+484
+00:23:41,096 --> 00:23:43,676
+I'm going to take the Doodle
+Patch and I'm going to mess
+
+
+485
+00:23:43,676 --> 00:23:44,616
+around with it a little bit.
+
+
+486
+00:23:44,616 --> 00:23:47,076
+I'm going to bring up my
+synth controls and I'm going
+
+
+487
+00:23:47,076 --> 00:23:48,506
+to change the character
+of my synth
+
+
+488
+00:23:48,506 --> 00:23:49,526
+and make it more aggressive.
+
+
+489
+00:23:49,646 --> 00:23:55,276
+So we're going to turn down
+our attack and we're going
+
+
+490
+00:23:55,276 --> 00:23:56,226
+to open up the filter.
+
+
+491
+00:24:00,246 --> 00:24:01,866
+Nice and aggressive -- that's
+what I was looking for.
+
+
+492
+00:24:02,396 --> 00:24:04,976
+I'm going to use Multi-Touch
+to bring it on home.
+
+
+493
+00:24:05,516 --> 00:24:12,016
+[ Music ]
+
+
+494
+00:24:12,516 --> 00:24:14,136
+Seriously, I could do
+this all night long.
+
+
+495
+00:24:14,436 --> 00:24:18,156
+Now this is really great stuff.
+
+
+496
+00:24:18,156 --> 00:24:18,616
+All these guys.
+
+
+497
+00:24:19,176 --> 00:24:21,176
+[ Applause ]
+
+
+498
+00:24:21,336 --> 00:24:23,426
+The thing that we
+loved that we loved
+
+
+499
+00:24:23,426 --> 00:24:25,516
+about Auxy is they
+took Apple technology
+
+
+500
+00:24:25,876 --> 00:24:27,776
+and they implemented
+it in such a way
+
+
+501
+00:24:27,776 --> 00:24:30,656
+that customers could have fun
+and they could be creative
+
+
+502
+00:24:30,656 --> 00:24:32,776
+without that technology
+getting in the way.
+
+
+503
+00:24:33,006 --> 00:24:34,096
+Really great stuff.
+
+
+504
+00:24:34,096 --> 00:24:34,766
+Love this app.
+
+
+505
+00:24:34,766 --> 00:24:35,526
+Congratulations.
+
+
+506
+00:24:35,526 --> 00:24:35,926
+Back to you, John.
+
+
+507
+00:24:36,516 --> 00:24:40,906
+[ Applause ]
+
+
+508
+00:24:41,406 --> 00:24:42,016
+>> That's pretty cool.
+
+
+509
+00:24:42,016 --> 00:24:42,496
+Thank you.
+
+
+510
+00:24:42,496 --> 00:24:45,176
+I was just talking for a moment
+here how big the team is,
+
+
+511
+00:24:45,176 --> 00:24:47,806
+and it's three people
+that created this.
+
+
+512
+00:24:47,806 --> 00:24:49,816
+So here's an app --
+Auxy Music Creation.
+
+
+513
+00:24:50,006 --> 00:24:53,216
+More than 4,000 5-star
+reviews on the App Store,
+
+
+514
+00:24:53,326 --> 00:24:55,866
+and it's exclusive to iPad.
+
+
+515
+00:24:56,736 --> 00:24:58,856
+All right, our fourth
+winner is an app
+
+
+516
+00:24:59,096 --> 00:25:01,266
+that helps you to
+form good habits.
+
+
+517
+00:25:01,756 --> 00:25:04,226
+Congratulations to Streaks
+
+
+518
+00:25:04,696 --> 00:25:06,626
+by Zervaas Enterprises
+from Australia.
+
+
+519
+00:25:07,516 --> 00:25:14,516
+[ Applause ]
+
+
+520
+00:25:15,516 --> 00:25:20,896
+[ Music ]
+
+
+521
+00:25:21,396 --> 00:25:21,646
+Good job.
+
+
+522
+00:25:21,646 --> 00:25:21,826
+>> Thank you.
+
+
+523
+00:25:21,826 --> 00:25:21,893
+>> Yeah.
+
+
+524
+00:25:22,516 --> 00:25:31,546
+[ Music ]
+
+
+525
+00:25:32,046 --> 00:25:33,956
+So, Streaks is a to-do list
+
+
+526
+00:25:33,956 --> 00:25:36,716
+that helps you form good
+habits and change behavior.
+
+
+527
+00:25:37,406 --> 00:25:40,046
+And Streaks has a simple
+and straightforward UI,
+
+
+528
+00:25:40,046 --> 00:25:43,456
+and it's got an excellent
+implementation on Apple Watch --
+
+
+529
+00:25:43,916 --> 00:25:47,656
+probably the best Apple
+Watch app available today.
+
+
+530
+00:25:48,086 --> 00:25:50,096
+And we'd like to show
+you Streaks right now.
+
+
+531
+00:25:50,746 --> 00:25:50,966
+TC?
+
+
+532
+00:25:50,966 --> 00:25:52,396
+>> Thanks, John.
+
+
+533
+00:25:52,456 --> 00:25:56,176
+So trying to form good
+habits is difficult.
+
+
+534
+00:25:56,806 --> 00:25:59,506
+The last thing you want is
+an app that is complicated
+
+
+535
+00:25:59,506 --> 00:26:01,996
+to set up, uninspiring to use,
+
+
+536
+00:26:02,216 --> 00:26:05,686
+and pretty much itself a
+reason for procrastination.
+
+
+537
+00:26:07,136 --> 00:26:10,766
+So here are five of
+the possible six tasks
+
+
+538
+00:26:10,766 --> 00:26:11,886
+that I've set up for myself.
+
+
+539
+00:26:11,886 --> 00:26:15,026
+And you can see on the top
+right "Practice cello".
+
+
+540
+00:26:15,416 --> 00:26:18,476
+So I miss playing the
+cello professionally,
+
+
+541
+00:26:18,956 --> 00:26:20,606
+but I just haven't
+been practicing.
+
+
+542
+00:26:21,306 --> 00:26:25,526
+I'm using Streaks to help get me
+back to it, to help me remember
+
+
+543
+00:26:25,526 --> 00:26:29,116
+to practice regularly because
+I have a concert coming up.
+
+
+544
+00:26:29,496 --> 00:26:30,976
+And I've been saying
+that for a few years now.
+
+
+545
+00:26:31,071 --> 00:26:33,071
+[ Laughter ]
+
+
+546
+00:26:33,126 --> 00:26:39,016
+So to see how I've been doing,
+I can just tap on the Task icon
+
+
+547
+00:26:39,016 --> 00:26:40,906
+for the calendar view here.
+
+
+548
+00:26:41,246 --> 00:26:43,376
+I can also peak and pop onto it.
+
+
+549
+00:26:43,586 --> 00:26:45,676
+And you can see June
+was pretty good.
+
+
+550
+00:26:45,676 --> 00:26:50,136
+But if I was to reveal to
+you May -- not so good.
+
+
+551
+00:26:50,366 --> 00:26:52,876
+So the crosses is where,
+for whatever reason,
+
+
+552
+00:26:52,876 --> 00:26:54,256
+I've decided not to practice.
+
+
+553
+00:26:55,276 --> 00:26:56,936
+Coming back here
+and tapping again,
+
+
+554
+00:26:56,936 --> 00:26:59,486
+this is a summary
+of how I've done.
+
+
+555
+00:26:59,486 --> 00:27:01,526
+And you can see that
+I'm currently
+
+
+556
+00:27:01,526 --> 00:27:03,416
+on a streak of 15 days.
+
+
+557
+00:27:04,816 --> 00:27:06,176
+Now we're back here.
+
+
+558
+00:27:06,776 --> 00:27:09,956
+To mark a task complete,
+all I do is to tap and hold.
+
+
+559
+00:27:09,956 --> 00:27:11,066
+And there you go.
+
+
+560
+00:27:11,066 --> 00:27:13,046
+It's like I've just finished
+practicing for today.
+
+
+561
+00:27:14,036 --> 00:27:15,326
+Now when I was outside earlier,
+
+
+562
+00:27:15,326 --> 00:27:21,336
+I was reading the iOS 10
+API disk documentation.
+
+
+563
+00:27:21,516 --> 00:27:23,486
+So I'm going to go and check
+
+
+564
+00:27:23,486 --> 00:27:25,486
+"Read the book" as
+complete as well.
+
+
+565
+00:27:26,586 --> 00:27:28,966
+Now Streaks is also
+on Apple Watch.
+
+
+566
+00:27:29,406 --> 00:27:32,546
+And it has Watch complications
+right onto your Watch face,
+
+
+567
+00:27:32,926 --> 00:27:35,226
+including one that is
+really cleverly designed.
+
+
+568
+00:27:35,226 --> 00:27:38,756
+It's based on a dotted
+design which looks just
+
+
+569
+00:27:38,756 --> 00:27:42,366
+like the iPhone app so that
+you can tell from just looking
+
+
+570
+00:27:42,366 --> 00:27:43,636
+at how the dots are arranged
+
+
+571
+00:27:44,006 --> 00:27:46,106
+and which ones are
+lit how you're doing
+
+
+572
+00:27:46,106 --> 00:27:47,606
+with your task for that day.
+
+
+573
+00:27:48,806 --> 00:27:53,426
+Streaks uses Watch connectivity
+extensively, so my Apple Watch
+
+
+574
+00:27:53,426 --> 00:27:55,276
+and iPhone are always in sync.
+
+
+575
+00:27:55,276 --> 00:28:01,756
+Now Streaks is also considerate,
+and I'll show you what I mean,
+
+
+576
+00:28:01,756 --> 00:28:05,316
+especially in the way it
+handles notifications.
+
+
+577
+00:28:06,516 --> 00:28:13,096
+For instance, when it comes
+to automatic time and my cat,
+
+
+578
+00:28:14,096 --> 00:28:17,766
+Auzuki, Streaks knows that
+I play with her every day
+
+
+579
+00:28:17,766 --> 00:28:19,416
+when I come home from
+work immediately,
+
+
+580
+00:28:19,656 --> 00:28:21,036
+otherwise she gets quite cranky.
+
+
+581
+00:28:21,036 --> 00:28:22,916
+And nobody wants a cranky cat.
+
+
+582
+00:28:23,606 --> 00:28:27,966
+So it knows to remind me
+at the same time each day
+
+
+583
+00:28:27,966 --> 00:28:31,116
+but 30 minutes in advance of
+that so that I can continue
+
+
+584
+00:28:31,116 --> 00:28:32,716
+that streak and have
+a happy cat.
+
+
+585
+00:28:32,826 --> 00:28:33,536
+All right?
+
+
+586
+00:28:33,986 --> 00:28:37,596
+And it also looks at
+HealthKit to try and figure
+
+
+587
+00:28:37,596 --> 00:28:39,866
+out when it is I
+typically go to bed
+
+
+588
+00:28:39,866 --> 00:28:44,476
+so that it doesn't send me a
+reminder too late into my day.
+
+
+589
+00:28:46,066 --> 00:28:48,076
+For when things are
+going really well,
+
+
+590
+00:28:48,496 --> 00:28:50,176
+you get encouragement as well.
+
+
+591
+00:28:50,176 --> 00:28:53,846
+And in addition to that, Streaks
+will suggest perhaps a higher
+
+
+592
+00:28:53,846 --> 00:28:56,706
+goal so that you achieve
+an overall greater result.
+
+
+593
+00:28:57,426 --> 00:28:59,926
+Now, conversely, if you've
+been missing a few tasks,
+
+
+594
+00:28:59,926 --> 00:29:02,886
+it will suggest an
+easier-to-achieve goal
+
+
+595
+00:29:02,886 --> 00:29:03,976
+so you don't end up giving up.
+
+
+596
+00:29:10,266 --> 00:29:14,026
+OK, so Streaks is
+a 5-star rated app.
+
+
+597
+00:29:14,026 --> 00:29:16,346
+It's exclusive to iOS and Watch,
+
+
+598
+00:29:17,136 --> 00:29:19,266
+and it was developed
+using Swift.
+
+
+599
+00:29:20,386 --> 00:29:22,896
+Bad habits form automatically.
+
+
+600
+00:29:23,236 --> 00:29:25,766
+Streaks helps us come
+up with good ones.
+
+
+601
+00:29:26,146 --> 00:29:27,496
+I'm more confident than ever
+
+
+602
+00:29:27,496 --> 00:29:29,926
+that I'll be playing my
+cello soon in a concert,
+
+
+603
+00:29:29,926 --> 00:29:33,196
+or to read many books, and
+have a really happy cat.
+
+
+604
+00:29:33,356 --> 00:29:34,416
+Thank you.
+
+
+605
+00:29:35,516 --> 00:29:39,796
+[ Applause ]
+
+
+606
+00:29:40,296 --> 00:29:41,046
+>> So that's Streaks.
+
+
+607
+00:29:41,276 --> 00:29:44,226
+We picked this app as a
+winner for its simplicity,
+
+
+608
+00:29:44,226 --> 00:29:48,156
+the great visual design, and
+the excellent implementation
+
+
+609
+00:29:48,156 --> 00:29:48,866
+on Apple Watch.
+
+
+610
+00:29:49,526 --> 00:29:53,056
+They're localized into 25
+languages and they're exclusive
+
+
+611
+00:29:53,056 --> 00:29:57,146
+to iPhone, Apple Watch, and
+Apple TV as TC just mentioned.
+
+
+612
+00:29:57,886 --> 00:30:01,946
+All right, our next
+winner is, again, a game.
+
+
+613
+00:30:03,556 --> 00:30:06,156
+Lara Croft by Square Enix.
+
+
+614
+00:30:07,516 --> 00:30:17,516
+[ Applause ]
+
+
+615
+00:30:18,516 --> 00:30:29,246
+[ Music ]
+
+
+616
+00:30:29,746 --> 00:30:32,126
+So Lara Croft Go
+captures the spirit
+
+
+617
+00:30:32,126 --> 00:30:37,296
+of this classic franchise,
+and then reimagines it
+
+
+618
+00:30:37,296 --> 00:30:42,406
+into this classy new app with an
+innovative new look and turns it
+
+
+619
+00:30:42,406 --> 00:30:43,696
+into this great adventure game.
+
+
+620
+00:30:44,726 --> 00:30:48,276
+This is a great example of
+a large developer working
+
+
+621
+00:30:48,276 --> 00:30:50,876
+with a small studio
+within their organization
+
+
+622
+00:30:51,376 --> 00:30:52,346
+to give them the task
+
+
+623
+00:30:52,346 --> 00:30:55,476
+of creating something
+that's really well-executed
+
+
+624
+00:30:55,476 --> 00:30:56,926
+down to the smallest detail.
+
+
+625
+00:30:57,286 --> 00:30:59,066
+These guys have done
+a tremendous job
+
+
+626
+00:30:59,066 --> 00:31:00,236
+with this huge franchise.
+
+
+627
+00:31:00,936 --> 00:31:03,066
+These folks are based
+out of Montreal, Canada.
+
+
+628
+00:31:03,586 --> 00:31:06,786
+Right? And it's great --
+you've done a tremendous job.
+
+
+629
+00:31:06,786 --> 00:31:08,536
+Now to show you this game,
+
+
+630
+00:31:08,536 --> 00:31:11,066
+I'd like to ask Allan
+to give a demo.
+
+
+631
+00:31:11,576 --> 00:31:12,526
+>> Great. Thank you, John.
+
+
+632
+00:31:12,826 --> 00:31:17,336
+So Lara Croft Go is a turn-based
+puzzle adventure game that's set
+
+
+633
+00:31:17,336 --> 00:31:20,486
+in the ruins of an
+ancient civilization.
+
+
+634
+00:31:20,486 --> 00:31:24,246
+And what we loved about this
+game is how it took so many
+
+
+635
+00:31:24,246 --> 00:31:26,786
+of the elements of the
+Lara Croft franchise --
+
+
+636
+00:31:26,946 --> 00:31:31,316
+things like the archeological
+exploration, and the adventure,
+
+
+637
+00:31:31,316 --> 00:31:35,186
+and solving puzzles and avoiding
+traps, and Lara herself --
+
+
+638
+00:31:35,326 --> 00:31:38,196
+and reimagined all those things
+
+
+639
+00:31:38,196 --> 00:31:41,706
+into a puzzle game
+that's perfect for mobile
+
+
+640
+00:31:41,706 --> 00:31:44,146
+and beautifully designed
+for touch.
+
+
+641
+00:31:44,376 --> 00:31:45,866
+So I'd like to show you it here.
+
+
+642
+00:31:46,166 --> 00:31:49,326
+I'm coming into a level
+here that's onboarding me
+
+
+643
+00:31:49,326 --> 00:31:51,016
+into a new game mechanic
+that has to do
+
+
+644
+00:31:51,016 --> 00:31:52,566
+with these rolling boulders.
+
+
+645
+00:31:52,936 --> 00:31:54,516
+But actually, before
+I even do that,
+
+
+646
+00:31:54,566 --> 00:31:56,556
+just take this in for a moment.
+
+
+647
+00:31:56,556 --> 00:31:59,906
+I mean, check out the
+stylized rendering.
+
+
+648
+00:31:59,906 --> 00:32:02,506
+I hope you can all hear the
+ambient soundtrack here.
+
+
+649
+00:32:02,506 --> 00:32:03,656
+It's just beautiful.
+
+
+650
+00:32:03,946 --> 00:32:07,076
+And we really love
+things like the attention
+
+
+651
+00:32:07,116 --> 00:32:08,596
+to detail in the levels.
+
+
+652
+00:32:08,596 --> 00:32:11,406
+And it has a really
+unobtrusive UI.
+
+
+653
+00:32:11,866 --> 00:32:16,046
+There's no virtual joypad
+here to move Lara around.
+
+
+654
+00:32:16,046 --> 00:32:20,106
+To move Lara to the next space,
+I just swipe and she moves.
+
+
+655
+00:32:20,246 --> 00:32:22,976
+But, OK, so let's start
+looking through this level here.
+
+
+656
+00:32:23,276 --> 00:32:25,256
+Obviously there's this
+boulder, and I have a feeling
+
+
+657
+00:32:25,256 --> 00:32:27,556
+that if I step on
+the trap -- yeah.
+
+
+658
+00:32:27,796 --> 00:32:31,936
+OK. So, mental note, don't
+step under falling boulders.
+
+
+659
+00:32:32,226 --> 00:32:35,696
+But we can put that knowledge
+to work a little bit later.
+
+
+660
+00:32:35,826 --> 00:32:38,796
+Isn't it cool how she kind
+of hangs off the ledge there?
+
+
+661
+00:32:39,346 --> 00:32:40,866
+All right, but I'm going
+forward a little further here.
+
+
+662
+00:32:40,866 --> 00:32:41,696
+Here's another one.
+
+
+663
+00:32:41,746 --> 00:32:45,496
+I'm going to get it going,
+but then I'll take a step back
+
+
+664
+00:32:45,496 --> 00:32:46,696
+and let it roll past me.
+
+
+665
+00:32:47,566 --> 00:32:48,656
+OK, so I'm safe.
+
+
+666
+00:32:49,336 --> 00:32:51,796
+And I come down now into
+the next part of the stage.
+
+
+667
+00:32:52,086 --> 00:32:53,096
+All right.
+
+
+668
+00:32:53,446 --> 00:32:55,636
+So now in this part, I'm
+going to pick up the spear.
+
+
+669
+00:32:55,636 --> 00:32:56,806
+But I'm not going
+to use that yet.
+
+
+670
+00:32:56,806 --> 00:32:59,466
+What I'm going to do --
+this lizard has woken up
+
+
+671
+00:32:59,526 --> 00:33:02,666
+and I'm going to step back
+and let him step on the trap.
+
+
+672
+00:33:03,466 --> 00:33:05,606
+Bam! OK, no more lizard.
+
+
+673
+00:33:06,016 --> 00:33:07,376
+So now let's go forward.
+
+
+674
+00:33:07,926 --> 00:33:09,996
+And this next one wakes up.
+
+
+675
+00:33:10,086 --> 00:33:13,506
+OK, now the game mechanic here
+is that as I move once space,
+
+
+676
+00:33:13,506 --> 00:33:14,986
+the lizard will move one space.
+
+
+677
+00:33:15,296 --> 00:33:18,696
+And it'll follow me through
+whatever path I take.
+
+
+678
+00:33:18,946 --> 00:33:20,676
+So I'm going to climb
+up the wall here
+
+
+679
+00:33:21,476 --> 00:33:24,996
+and go a particular way to get
+him right where I want him.
+
+
+680
+00:33:25,456 --> 00:33:29,106
+Bam! It never gets old.
+
+
+681
+00:33:29,246 --> 00:33:30,526
+All right.
+
+
+682
+00:33:30,976 --> 00:33:32,606
+And I'm going to
+dispatch the snake.
+
+
+683
+00:33:33,776 --> 00:33:35,166
+Great. And that finishes
+
+
+684
+00:33:35,166 --> 00:33:37,926
+out this particular
+stage of this level.
+
+
+685
+00:33:38,716 --> 00:33:42,016
+And, really, this is just
+a taste of this game.
+
+
+686
+00:33:42,016 --> 00:33:44,596
+There's over a hundred
+of these different scenes
+
+
+687
+00:33:45,006 --> 00:33:46,606
+with incredible detail.
+
+
+688
+00:33:47,086 --> 00:33:49,876
+And it's just hats off to
+you guys for this creation.
+
+
+689
+00:33:49,876 --> 00:33:50,926
+It's really beautiful.
+
+
+690
+00:33:50,926 --> 00:33:53,896
+The game supports
+Game Center and iCloud
+
+
+691
+00:33:53,896 --> 00:33:56,626
+to synchronize its progress
+across all of your devices.
+
+
+692
+00:33:56,966 --> 00:33:59,786
+It's localized in 11
+different languages.
+
+
+693
+00:34:00,166 --> 00:34:03,966
+And it's a premium title with
+a couple of in-app purchases --
+
+
+694
+00:34:03,966 --> 00:34:07,866
+one to provide you solutions
+to puzzles if you get stuck,
+
+
+695
+00:34:08,206 --> 00:34:10,166
+and the other to
+customize the character.
+
+
+696
+00:34:10,496 --> 00:34:12,085
+So, again, hats off to you guys.
+
+
+697
+00:34:12,085 --> 00:34:12,876
+Congratulations.
+
+
+698
+00:34:13,516 --> 00:34:18,676
+[ Applause ]
+
+
+699
+00:34:19,176 --> 00:34:20,376
+>> So that's Lara Croft Go.
+
+
+700
+00:34:20,376 --> 00:34:21,976
+It's tuned for iOS and has more
+
+
+701
+00:34:21,976 --> 00:34:24,616
+than 5,000 5-star
+ratings on the App Store.
+
+
+702
+00:34:25,036 --> 00:34:26,466
+Tremendous work.
+
+
+703
+00:34:27,036 --> 00:34:32,106
+All right, our next winner is
+3D4Medical Complete Anatomy
+
+
+704
+00:34:32,196 --> 00:34:32,835
+from Ireland.
+
+
+705
+00:34:33,516 --> 00:34:47,646
+[ Applause ]
+
+
+706
+00:34:48,146 --> 00:34:48,416
+Congrats.
+
+
+707
+00:34:48,456 --> 00:34:49,596
+>> Thank you.
+
+
+708
+00:34:49,735 --> 00:34:49,976
+>> Great job.
+
+
+709
+00:34:50,516 --> 00:34:56,076
+[ Music ]
+
+
+710
+00:34:56,576 --> 00:35:00,076
+This is a groundbreaking
+3D anatomical platform
+
+
+711
+00:35:00,286 --> 00:35:02,906
+for medical students,
+medical professionals,
+
+
+712
+00:35:02,906 --> 00:35:04,206
+and lifelong learners.
+
+
+713
+00:35:04,836 --> 00:35:09,156
+And we love this app for how
+it's disrupting traditional ways
+
+
+714
+00:35:09,156 --> 00:35:10,136
+of teaching anatomy.
+
+
+715
+00:35:11,076 --> 00:35:14,026
+For example, medical
+professionals will use this app
+
+
+716
+00:35:14,026 --> 00:35:16,446
+as a tool to help patients
+understand what's going
+
+
+717
+00:35:16,446 --> 00:35:19,206
+on with an injury or
+an upcoming procedure.
+
+
+718
+00:35:19,636 --> 00:35:24,536
+And that understanding actually
+helps people heal better
+
+
+719
+00:35:24,536 --> 00:35:25,296
+and more quickly.
+
+
+720
+00:35:25,986 --> 00:35:28,006
+And I'd like to ask
+my colleague, Chris,
+
+
+721
+00:35:28,006 --> 00:35:28,976
+to show this to you now.
+
+
+722
+00:35:29,726 --> 00:35:32,726
+>> This was an app that
+completely blew us away
+
+
+723
+00:35:32,726 --> 00:35:35,886
+with its attention to detail,
+graphics and animations,
+
+
+724
+00:35:36,036 --> 00:35:38,626
+and most importantly what
+it allowed users to do.
+
+
+725
+00:35:38,696 --> 00:35:40,266
+We love the iconography
+throughout that.
+
+
+726
+00:35:40,496 --> 00:35:41,806
+Check out along the bottom menu.
+
+
+727
+00:35:42,146 --> 00:35:43,656
+The icons are consistent
+
+
+728
+00:35:43,656 --> 00:35:45,606
+and representative
+of what they control.
+
+
+729
+00:35:45,606 --> 00:35:47,306
+I'm going to turn
+some of these layers
+
+
+730
+00:35:47,306 --> 00:35:48,806
+on so you can get an
+idea of what's in here.
+
+
+731
+00:35:48,806 --> 00:35:53,516
+The app has over 6,200
+structures, so it's deep
+
+
+732
+00:35:53,576 --> 00:35:54,726
+without being overwhelming.
+
+
+733
+00:35:55,316 --> 00:35:58,136
+The content is progressively
+displayed as you need it.
+
+
+734
+00:35:58,256 --> 00:36:01,106
+Just a tremendous
+amount of content.
+
+
+735
+00:36:01,106 --> 00:36:03,216
+But I'm going to turn
+these layers off for now
+
+
+736
+00:36:03,396 --> 00:36:03,976
+and move into the bone.
+
+
+737
+00:36:08,766 --> 00:36:11,216
+Notice the incredible
+shading and textures.
+
+
+738
+00:36:12,006 --> 00:36:13,946
+They're the result of
+high-resolution scans
+
+
+739
+00:36:13,946 --> 00:36:15,286
+and artist interpretations.
+
+
+740
+00:36:15,956 --> 00:36:19,506
+The team has a skeleton on
+staff named Hank, a cadaver,
+
+
+741
+00:36:19,506 --> 00:36:21,316
+and a medical team
+that they reference
+
+
+742
+00:36:21,316 --> 00:36:22,336
+to get things just right.
+
+
+743
+00:36:23,226 --> 00:36:25,096
+We love it when a team
+goes that extra mile
+
+
+744
+00:36:25,096 --> 00:36:26,736
+to make things particularly
+beautiful.
+
+
+745
+00:36:26,736 --> 00:36:30,596
+If at any point in the app
+you see something that's
+
+
+746
+00:36:30,596 --> 00:36:32,616
+interesting, you can just tap
+on it to learn a bit more.
+
+
+747
+00:36:32,616 --> 00:36:35,476
+Are there any Warriors
+fans in the audience?
+
+
+748
+00:36:36,176 --> 00:36:38,176
+[ Cheering ]
+
+
+749
+00:36:38,336 --> 00:36:40,566
+This is the ligament that nearly
+cost the Warriors their season
+
+
+750
+00:36:40,566 --> 00:36:43,256
+when Steph went out with that
+knee injury a couple weeks back.
+
+
+751
+00:36:44,386 --> 00:36:45,826
+Now I'm going to
+turn on some muscle
+
+
+752
+00:36:45,826 --> 00:36:46,966
+so we can see some movement.
+
+
+753
+00:36:47,656 --> 00:36:53,116
+I can select on a muscle group
+and I can see how that works.
+
+
+754
+00:36:57,056 --> 00:36:59,336
+I can adjust this
+motion in real time,
+
+
+755
+00:36:59,766 --> 00:37:01,986
+rotate, and see things in 3D.
+
+
+756
+00:37:02,336 --> 00:37:05,316
+One of the reasons
+we chose this app is
+
+
+757
+00:37:05,316 --> 00:37:07,806
+because it leveraged the
+performance of iPad Pro.
+
+
+758
+00:37:07,886 --> 00:37:09,326
+With the new CPU and GPU,
+
+
+759
+00:37:09,326 --> 00:37:12,186
+it allowed double the graphics
+resolution of previous versions.
+
+
+760
+00:37:12,616 --> 00:37:14,326
+Again, check out the
+texture on that muscle.
+
+
+761
+00:37:14,326 --> 00:37:16,946
+Just incredibly realistic.
+
+
+762
+00:37:17,516 --> 00:37:20,256
+Now we could spend hours just
+exploring content in this app,
+
+
+763
+00:37:20,316 --> 00:37:22,266
+but 3D4Medical wanted
+to allow users
+
+
+764
+00:37:22,266 --> 00:37:24,126
+to create and share content.
+
+
+765
+00:37:24,606 --> 00:37:26,396
+So at any point in the
+app, I can start recording.
+
+
+766
+00:37:26,396 --> 00:37:27,266
+So I'm going to do that now.
+
+
+767
+00:37:27,886 --> 00:37:30,406
+So I'm now recording audio
+and what's on the screen.
+
+
+768
+00:37:31,056 --> 00:37:33,946
+I can use this --
+if I was a teacher,
+
+
+769
+00:37:33,946 --> 00:37:35,306
+I could create a
+lesson for a student.
+
+
+770
+00:37:35,306 --> 00:37:38,906
+Or if I was a physician, I
+could record a common procedure
+
+
+771
+00:37:38,906 --> 00:37:40,106
+to share with my patients.
+
+
+772
+00:37:40,596 --> 00:37:44,336
+For the baseball fans, what I'm
+doing here is I'm using Apple
+
+
+773
+00:37:44,336 --> 00:37:47,256
+Pencil to pull back the
+layers of the muscle
+
+
+774
+00:37:48,366 --> 00:37:50,296
+to show the ligaments that
+were repaired during Tommy
+
+
+775
+00:37:50,296 --> 00:37:51,186
+John's surgery.
+
+
+776
+00:37:51,796 --> 00:37:53,686
+Imagine a physician
+sharing something like this
+
+
+777
+00:37:53,686 --> 00:37:55,896
+with a patient before
+a procedure.
+
+
+778
+00:37:56,876 --> 00:37:59,206
+I can then save the
+recording for my own use.
+
+
+779
+00:37:59,206 --> 00:38:02,126
+Or if I choose, I can share it
+with the 3D4Medical Community.
+
+
+780
+00:38:02,826 --> 00:38:05,166
+We love it when a developer
+tackles a unique problem
+
+
+781
+00:38:05,166 --> 00:38:06,226
+in a new way.
+
+
+782
+00:38:06,226 --> 00:38:07,936
+This is a team that
+looked at human anatomy
+
+
+783
+00:38:08,026 --> 00:38:09,526
+and what they could do with iPad
+
+
+784
+00:38:09,526 --> 00:38:11,706
+and created a world-class
+education tool.
+
+
+785
+00:38:12,456 --> 00:38:13,356
+Congratulations, guys.
+
+
+786
+00:38:13,356 --> 00:38:13,856
+Back to you, John.
+
+
+787
+00:38:14,516 --> 00:38:19,566
+[ Applause ]
+
+
+788
+00:38:20,066 --> 00:38:21,876
+>> 3D4Medical Complete Anatomy.
+
+
+789
+00:38:22,006 --> 00:38:24,296
+We picked this out for its
+incredible performance,
+
+
+790
+00:38:24,296 --> 00:38:27,576
+its high-fidelity models,
+the attention to detail,
+
+
+791
+00:38:27,576 --> 00:38:28,956
+and the uncluttered UI.
+
+
+792
+00:38:29,766 --> 00:38:31,786
+It's exclusive to
+iPad Pro right now,
+
+
+793
+00:38:31,786 --> 00:38:33,526
+but it's coming to
+Mac this summer.
+
+
+794
+00:38:33,956 --> 00:38:35,306
+And it's unbelievable.
+
+
+795
+00:38:35,856 --> 00:38:40,376
+All right, our seventh
+winner is really beautiful.
+
+
+796
+00:38:41,096 --> 00:38:44,926
+It is INKS by State of
+Play Games from London.
+
+
+797
+00:38:45,516 --> 00:38:57,696
+[ Applause ]
+
+
+798
+00:38:58,196 --> 00:38:58,716
+Congratulations.
+
+
+799
+00:38:58,786 --> 00:38:58,966
+>> Thank you.
+
+
+800
+00:38:59,516 --> 00:39:07,546
+[ Music ]
+
+
+801
+00:39:08,046 --> 00:39:12,436
+>> So INKS is from the makers
+of Lumino City based in the UK.
+
+
+802
+00:39:12,436 --> 00:39:15,896
+And after extensive research at
+their local pub, they decided
+
+
+803
+00:39:15,896 --> 00:39:17,876
+to create a new generation
+of pinball.
+
+
+804
+00:39:18,676 --> 00:39:20,786
+And if you think about it, INKS.
+
+
+805
+00:39:20,786 --> 00:39:23,626
+is sort of a cross between
+paintball and pinball
+
+
+806
+00:39:23,626 --> 00:39:24,876
+with an artistic flare.
+
+
+807
+00:39:24,876 --> 00:39:26,816
+And you've got to see this.
+
+
+808
+00:39:27,536 --> 00:39:30,626
+So for the demo, I
+decided I'd ask Mike,
+
+
+809
+00:39:30,726 --> 00:39:37,276
+the evangelism resident pinball
+expert, to show this to you now.
+
+
+810
+00:39:37,726 --> 00:39:39,496
+>> Thanks, John.
+
+
+811
+00:39:39,496 --> 00:39:41,336
+So right from the
+Welcome Screen,
+
+
+812
+00:39:41,336 --> 00:39:45,046
+you get to enjoy the
+beautifully stunning
+
+
+813
+00:39:45,046 --> 00:39:46,646
+and highly realistic INKS.
+
+
+814
+00:39:47,266 --> 00:39:51,196
+The way they blend together the
+colors here are really gorgeous.
+
+
+815
+00:39:51,416 --> 00:39:53,016
+Now as I hit the
+pinball through,
+
+
+816
+00:39:53,016 --> 00:39:56,296
+you can see how it traces
+those colors one into the other
+
+
+817
+00:39:56,556 --> 00:39:58,076
+and draws it onto the paper.
+
+
+818
+00:39:58,256 --> 00:39:59,866
+It's really pretty awesome.
+
+
+819
+00:39:59,966 --> 00:40:01,326
+All right, let's play a game.
+
+
+820
+00:40:01,326 --> 00:40:03,956
+Now INKS features
+five different levels,
+
+
+821
+00:40:03,956 --> 00:40:07,976
+each of which has 24 different
+boards, each with its own set
+
+
+822
+00:40:07,976 --> 00:40:10,966
+of obstacles, challenges,
+and increasing complexity.
+
+
+823
+00:40:11,466 --> 00:40:13,736
+As John said, I'm kind
+of a pinball wizard.
+
+
+824
+00:40:13,896 --> 00:40:15,646
+So I'll start with one of
+the more advanced ones,
+
+
+825
+00:40:15,886 --> 00:40:17,606
+but not so advanced
+that you guys feel bad
+
+
+826
+00:40:17,606 --> 00:40:18,616
+about your pinball skills.
+
+
+827
+00:40:20,276 --> 00:40:21,856
+Now check out each
+of these boards.
+
+
+828
+00:40:21,926 --> 00:40:26,066
+They're each custom designed,
+obviously handcrafted
+
+
+829
+00:40:26,066 --> 00:40:27,936
+with a lot of thought and care.
+
+
+830
+00:40:28,256 --> 00:40:30,076
+They're their own
+beautiful compositions
+
+
+831
+00:40:30,396 --> 00:40:32,406
+on their own before
+you even start to play.
+
+
+832
+00:40:33,056 --> 00:40:35,736
+And check out the gold, and
+silver, and bronze pinballs.
+
+
+833
+00:40:36,026 --> 00:40:38,746
+These show you how well you've
+done in each of these levels.
+
+
+834
+00:40:39,196 --> 00:40:40,706
+Now bronze is not good enough,
+
+
+835
+00:40:41,286 --> 00:40:42,836
+so let me show you
+guys how it's done.
+
+
+836
+00:40:47,516 --> 00:40:50,006
+[ Laughter ]
+
+
+837
+00:40:50,506 --> 00:40:52,566
+There must be a problem
+with this iPad.
+
+
+838
+00:40:53,046 --> 00:40:55,046
+[ Laughter ]
+
+
+839
+00:40:55,076 --> 00:40:55,976
+All right, let me redeem myself.
+
+
+840
+00:40:56,516 --> 00:41:00,026
+[ Laughter ]
+
+
+841
+00:41:00,526 --> 00:41:05,436
+Oh, man. OK, this was a
+lot easier in rehearsals
+
+
+842
+00:41:05,436 --> 00:41:07,506
+when I didn't have
+5,000 people watching.
+
+
+843
+00:41:08,366 --> 00:41:11,726
+All right, so I'm going to go
+to one of the easier levels.
+
+
+844
+00:41:12,066 --> 00:41:14,066
+[ Laughter ]
+
+
+845
+00:41:14,116 --> 00:41:19,356
+And just to show you guys
+this, too, INKS offers hours
+
+
+846
+00:41:19,356 --> 00:41:23,966
+of gameplay for more beginner
+players -- of which I am not.
+
+
+847
+00:41:25,196 --> 00:41:27,266
+All right, let's try this.
+
+
+848
+00:41:27,626 --> 00:41:30,666
+Bam! That's how I do!
+
+
+849
+00:41:31,516 --> 00:41:33,546
+[ Laughter ]
+
+
+850
+00:41:34,046 --> 00:41:34,886
+All right.
+
+
+851
+00:41:35,386 --> 00:41:37,976
+So what I want to show you
+guys is some of the levels
+
+
+852
+00:41:37,976 --> 00:41:40,646
+that really demonstrate
+the highly realistic INKS
+
+
+853
+00:41:40,646 --> 00:41:41,896
+that I was talking
+about earlier.
+
+
+854
+00:41:42,586 --> 00:41:44,976
+So there's that big color
+swatch in the center.
+
+
+855
+00:41:45,096 --> 00:41:49,126
+And each time you hit one, it
+explodes and reacts to force
+
+
+856
+00:41:49,126 --> 00:41:50,776
+and angle in its own unique way.
+
+
+857
+00:41:51,036 --> 00:41:53,986
+And check out how the
+colors continue to blend
+
+
+858
+00:41:53,986 --> 00:41:56,176
+into each other and
+darken as they go.
+
+
+859
+00:41:56,176 --> 00:41:59,506
+The team spent a lot of
+time studying water colors,
+
+
+860
+00:41:59,506 --> 00:42:01,976
+the physics of it, the
+dynamics, how it dries
+
+
+861
+00:42:02,036 --> 00:42:03,996
+into the paper and blends.
+
+
+862
+00:42:03,996 --> 00:42:05,236
+It's really gorgeous.
+
+
+863
+00:42:05,236 --> 00:42:07,746
+And I'll show you just
+one more level here
+
+
+864
+00:42:08,816 --> 00:42:10,796
+that just shows off how,
+
+
+865
+00:42:11,056 --> 00:42:13,836
+even though this is a
+completely new take on pinball,
+
+
+866
+00:42:13,836 --> 00:42:17,106
+they still respected a lot of
+the sound effects, and the feel
+
+
+867
+00:42:17,106 --> 00:42:19,536
+of the bumpers, and habitrails,
+
+
+868
+00:42:19,536 --> 00:42:21,366
+and drop targets,
+and the flippers.
+
+
+869
+00:42:21,366 --> 00:42:23,826
+I mean, it's really,
+really amazing.
+
+
+870
+00:42:23,826 --> 00:42:26,306
+And I'm probably not going to
+have time to finish this one.
+
+
+871
+00:42:26,366 --> 00:42:27,916
+I'll just let it go
+down the drain there.
+
+
+872
+00:42:28,376 --> 00:42:31,206
+But I think this really
+demonstrates how you can take a
+
+
+873
+00:42:31,206 --> 00:42:33,556
+traditional game mechanic
+and with enough thought,
+
+
+874
+00:42:33,836 --> 00:42:36,216
+attention to detail and
+care, create something
+
+
+875
+00:42:36,216 --> 00:42:37,936
+which is completely
+fresh and unique.
+
+
+876
+00:42:38,356 --> 00:42:38,976
+Brilliant job.
+
+
+877
+00:42:38,976 --> 00:42:39,816
+Thanks. Back to you.
+
+
+878
+00:42:40,516 --> 00:42:44,976
+[ Applause ]
+
+
+879
+00:42:45,476 --> 00:42:46,006
+>> Thanks, Mike.
+
+
+880
+00:42:46,616 --> 00:42:49,126
+So it's obvious that we picked
+this game as a winner tonight
+
+
+881
+00:42:49,286 --> 00:42:51,396
+because it's really
+well-designed.
+
+
+882
+00:42:51,396 --> 00:42:53,236
+It's rich and unique.
+
+
+883
+00:42:53,236 --> 00:42:54,746
+It's available in
+five languages,
+
+
+884
+00:42:54,746 --> 00:42:56,326
+and it's exclusive to iOS.
+
+
+885
+00:42:56,486 --> 00:42:59,676
+And it's also really
+interesting to note that a lot
+
+
+886
+00:42:59,676 --> 00:43:03,876
+of the conceptualization and the
+artistry was done on an iPad Pro
+
+
+887
+00:43:03,876 --> 00:43:06,366
+with Apple Pencil by the team.
+
+
+888
+00:43:06,416 --> 00:43:09,466
+So they used some other tools,
+too, to come up with this.
+
+
+889
+00:43:10,266 --> 00:43:11,036
+So that's INKS.
+
+
+890
+00:43:12,366 --> 00:43:15,346
+Our eighth winner today
+-- a fitness app --
+
+
+891
+00:43:16,776 --> 00:43:19,806
+is Zova Personal Trainer by
+ZOVA Group from Australia.
+
+
+892
+00:43:20,516 --> 00:43:35,546
+[ Applause ]
+
+
+893
+00:43:36,046 --> 00:43:37,086
+Congrats, guys.
+
+
+894
+00:43:37,306 --> 00:43:39,146
+Congratulations.
+
+
+895
+00:43:39,146 --> 00:43:40,906
+Good job. Well done.
+
+
+896
+00:43:41,056 --> 00:43:41,436
+Good job.
+
+
+897
+00:43:41,796 --> 00:43:41,976
+>> Thanks.
+
+
+898
+00:43:42,516 --> 00:43:48,866
+[ Music ]
+
+
+899
+00:43:49,366 --> 00:43:50,906
+>> So Zova is a fitness
+training app
+
+
+900
+00:43:50,996 --> 00:43:53,456
+that helps people stay
+active using motivation
+
+
+901
+00:43:53,456 --> 00:43:56,796
+and great HD videos that
+look awesome on Apple TV.
+
+
+902
+00:43:57,356 --> 00:43:59,416
+And we loved it because
+it's thoughtful,
+
+
+903
+00:43:59,416 --> 00:44:01,996
+and in so many ways
+they took little things
+
+
+904
+00:44:01,996 --> 00:44:03,266
+and considered them deeply.
+
+
+905
+00:44:03,436 --> 00:44:06,146
+And it's really great
+on Apple TV.
+
+
+906
+00:44:06,146 --> 00:44:08,526
+In fact, we like this app so
+much that we took it with us
+
+
+907
+00:44:08,526 --> 00:44:12,896
+on the roadshow this fall --
+the Apple TV Tech Talks --
+
+
+908
+00:44:12,896 --> 00:44:15,256
+and we used it as one
+of the reference apps
+
+
+909
+00:44:15,256 --> 00:44:16,556
+in our design sessions.
+
+
+910
+00:44:17,096 --> 00:44:19,726
+And we'd like to
+show it to you now.
+
+
+911
+00:44:19,776 --> 00:44:20,016
+So, TC?
+
+
+912
+00:44:20,366 --> 00:44:21,026
+>> Thanks again, John.
+
+
+913
+00:44:22,016 --> 00:44:24,536
+Zova is a fitness app
+that provides short,
+
+
+914
+00:44:24,536 --> 00:44:26,466
+achievable, daily exercises.
+
+
+915
+00:44:26,986 --> 00:44:29,306
+Now this team here
+they've been early adopters
+
+
+916
+00:44:29,306 --> 00:44:33,526
+of Apple technologies from day
+1 with their initial release
+
+
+917
+00:44:33,526 --> 00:44:35,416
+of the app and HealthKit
+support,
+
+
+918
+00:44:35,996 --> 00:44:40,506
+to then Apple Watch support, and
+most recently Apple TV support.
+
+
+919
+00:44:40,506 --> 00:44:42,936
+But they don't just
+do it gratuitously.
+
+
+920
+00:44:43,836 --> 00:44:47,406
+They only deliver on
+unique experiences conducive
+
+
+921
+00:44:47,446 --> 00:44:49,826
+to each platform
+that feels natural
+
+
+922
+00:44:50,566 --> 00:44:52,866
+as if it always meant
+to be that.
+
+
+923
+00:44:53,246 --> 00:44:56,556
+And today, we'd like to
+talk about the Apple TV app.
+
+
+924
+00:44:57,116 --> 00:45:01,866
+So with Apple TV, they didn't
+just upsize the content.
+
+
+925
+00:45:02,696 --> 00:45:06,046
+They took the Apple TV
+concept to heart and thought
+
+
+926
+00:45:06,046 --> 00:45:08,806
+about the whole medium of TV.
+
+
+927
+00:45:09,936 --> 00:45:11,576
+TV is a major part of our lives.
+
+
+928
+00:45:12,086 --> 00:45:16,396
+It's when we gather together to
+enjoy content and experiences.
+
+
+929
+00:45:17,666 --> 00:45:21,466
+Now workout apps don't have to
+be lonesome activities anymore.
+
+
+930
+00:45:22,006 --> 00:45:25,006
+With the communal experiences
+afforded by Apple TV,
+
+
+931
+00:45:25,246 --> 00:45:28,846
+Zova had to think about the kind
+of content that they can create.
+
+
+932
+00:45:29,486 --> 00:45:32,416
+This collection here called
+Move Together is where you team
+
+
+933
+00:45:32,416 --> 00:45:35,136
+up with your friend and
+actually workout together
+
+
+934
+00:45:35,306 --> 00:45:37,206
+and get fit together.
+
+
+935
+00:45:38,936 --> 00:45:42,686
+But Zova didn't just stop
+at rethinking content.
+
+
+936
+00:45:43,466 --> 00:45:46,156
+They also wanted to take full
+advantage of the Siri Remote.
+
+
+937
+00:45:46,786 --> 00:45:49,486
+As you will see me
+navigating through this, it is,
+
+
+938
+00:45:49,486 --> 00:45:51,866
+as you would expect, very
+easy to find content.
+
+
+939
+00:45:53,576 --> 00:45:56,346
+And focusing on elements
+is easy, too.
+
+
+940
+00:45:56,346 --> 00:45:58,616
+Let's go into this workout here.
+
+
+941
+00:45:59,336 --> 00:46:02,146
+So, here, you get
+a brief description
+
+
+942
+00:46:02,146 --> 00:46:03,586
+of what this workout is about.
+
+
+943
+00:46:03,586 --> 00:46:06,146
+And also, if you have
+a look at the bottom,
+
+
+944
+00:46:06,256 --> 00:46:07,776
+these are video previews
+
+
+945
+00:46:08,026 --> 00:46:10,616
+of exactly what the
+exercises entail.
+
+
+946
+00:46:11,526 --> 00:46:14,286
+That way, you know what
+you're really in for.
+
+
+947
+00:46:14,286 --> 00:46:16,666
+But where the implementation
+of Siri Remote really comes
+
+
+948
+00:46:16,666 --> 00:46:19,486
+into its own is when you're
+actually inside of a workout.
+
+
+949
+00:46:19,826 --> 00:46:20,856
+So let's try one of these.
+
+
+950
+00:46:28,436 --> 00:46:31,226
+Each workout starts with a
+preview, so you're reminded
+
+
+951
+00:46:31,226 --> 00:46:32,906
+of exactly what the exercise is.
+
+
+952
+00:46:40,506 --> 00:46:43,196
+Now I've just pressed the
+Pause button, and it responds
+
+
+953
+00:46:43,196 --> 00:46:45,546
+as you would expect because
+you will get interrupted
+
+
+954
+00:46:45,546 --> 00:46:46,556
+when you're trying to exercise.
+
+
+955
+00:46:46,556 --> 00:46:47,486
+That's just the way it is.
+
+
+956
+00:46:48,046 --> 00:46:50,476
+When you resume the pause,
+it will give you a countdown
+
+
+957
+00:46:50,476 --> 00:46:52,676
+so that you can actually
+ready yourself instead
+
+
+958
+00:46:52,676 --> 00:46:54,216
+of just jumping straight
+into it.
+
+
+959
+00:46:55,146 --> 00:46:58,456
+But where it gets really
+interesting is I'm now pressing
+
+
+960
+00:46:58,456 --> 00:47:02,026
+and holding onto the Pause
+button, and instead I'm provided
+
+
+961
+00:47:02,026 --> 00:47:05,626
+with a freeze frame so that
+I can look more closely
+
+
+962
+00:47:05,626 --> 00:47:06,996
+at the details on the screen --
+
+
+963
+00:47:07,266 --> 00:47:10,566
+perhaps the exact
+posture of the instructor.
+
+
+964
+00:47:11,116 --> 00:47:14,326
+Now this is possible and is
+beyond the standard controls
+
+
+965
+00:47:14,326 --> 00:47:18,046
+because Zova has implemented
+a custom AVPlayerLayer.
+
+
+966
+00:47:20,046 --> 00:47:22,396
+Similarly, if I was
+to swipe left,
+
+
+967
+00:47:22,626 --> 00:47:25,616
+I can restart an
+exercise very quickly.
+
+
+968
+00:47:26,196 --> 00:47:32,376
+Or, if I was to swipe
+to the right,
+
+
+969
+00:47:32,376 --> 00:47:33,976
+you can see I can easily skip.
+
+
+970
+00:47:41,046 --> 00:47:43,046
+Now you may have noticed
+references earlier
+
+
+971
+00:47:43,046 --> 00:47:43,836
+to Apple Watch.
+
+
+972
+00:47:44,536 --> 00:47:47,216
+This is really neat.
+
+
+973
+00:47:47,426 --> 00:47:49,946
+What's happening here is
+it's taking my heartrate
+
+
+974
+00:47:49,946 --> 00:47:50,626
+from my Watch.
+
+
+975
+00:47:50,956 --> 00:47:55,746
+And through HealthKit and
+my iPhone, it is overlaying
+
+
+976
+00:47:55,746 --> 00:47:57,846
+that onto the live
+video stream here.
+
+
+977
+00:47:57,846 --> 00:47:59,376
+So that's my heartrate
+you're looking at.
+
+
+978
+00:48:03,326 --> 00:48:04,246
+Let's move along then.
+
+
+979
+00:48:07,506 --> 00:48:11,586
+At the end of each workout, you
+have an opportunity to, I guess,
+
+
+980
+00:48:11,586 --> 00:48:13,816
+log your feedback as
+to how you've done.
+
+
+981
+00:48:14,196 --> 00:48:16,346
+And this is a really fun
+use of the Siri Remote.
+
+
+982
+00:48:16,346 --> 00:48:19,896
+You can either give it a big
+thumbs-up for it has gone well,
+
+
+983
+00:48:20,196 --> 00:48:21,776
+or if it's gone less well --
+
+
+984
+00:48:21,776 --> 00:48:27,406
+and in my case, I tend to
+quiver my lips a little, too.
+
+
+985
+00:48:27,406 --> 00:48:27,976
+So there you go.
+
+
+986
+00:48:28,516 --> 00:48:31,646
+[ Laughter ]
+
+
+987
+00:48:32,146 --> 00:48:34,676
+We really like Zova's
+reimagination of content
+
+
+988
+00:48:34,906 --> 00:48:38,056
+for the lounge and living
+room, and the extensive use
+
+
+989
+00:48:38,056 --> 00:48:40,446
+of the features of
+the Apple Siri Remote
+
+
+990
+00:48:40,686 --> 00:48:42,226
+so that you have a true
+
+
+991
+00:48:42,226 --> 00:48:45,536
+and unique Apple TV
+experience in your lounge room.
+
+
+992
+00:48:45,536 --> 00:48:52,436
+Built using Swift, Zova
+is exclusive to iOS,
+
+
+993
+00:48:52,436 --> 00:48:53,986
+Watch OS, and Apple TV.
+
+
+994
+00:48:54,786 --> 00:48:57,016
+Congratulations to
+the team at ZOVA.
+
+
+995
+00:48:57,016 --> 00:48:57,946
+And back to you, John.
+
+
+996
+00:48:58,516 --> 00:49:03,886
+[ Applause ]
+
+
+997
+00:49:04,386 --> 00:49:06,416
+>> All right, that's Zova.
+
+
+998
+00:49:06,876 --> 00:49:10,896
+The next winner this
+afternoon is Ulysses
+
+
+999
+00:49:10,996 --> 00:49:12,976
+by the Soulmen from Germany.
+
+
+1000
+00:49:13,516 --> 00:49:23,516
+[ Applause ]
+
+
+1001
+00:49:24,516 --> 00:49:34,546
+[ Music ]
+
+
+1002
+00:49:35,046 --> 00:49:37,646
+So Ulysses is a powerful
+text editor for writers
+
+
+1003
+00:49:37,646 --> 00:49:40,286
+of all kinds -- journalists,
+bloggers, you name it.
+
+
+1004
+00:49:40,336 --> 00:49:44,116
+And it's designed specifically
+to cover all aspects
+
+
+1005
+00:49:44,116 --> 00:49:45,286
+of the writing process.
+
+
+1006
+00:49:45,286 --> 00:49:47,376
+And we picked it as a winner
+
+
+1007
+00:49:47,376 --> 00:49:49,736
+because it's a tool
+that's optimized
+
+
+1008
+00:49:49,736 --> 00:49:51,786
+for writing without distraction.
+
+
+1009
+00:49:52,106 --> 00:49:54,936
+The entire UI of the
+operating system goes away
+
+
+1010
+00:49:54,936 --> 00:49:57,116
+and you're just working
+with your words.
+
+
+1011
+00:49:57,716 --> 00:50:00,336
+And the execution of
+this app is so great.
+
+
+1012
+00:50:00,336 --> 00:50:03,076
+It allows you to work
+on any of our devices.
+
+
+1013
+00:50:03,456 --> 00:50:06,436
+You can choose to start on
+the Mac, then move to iPad,
+
+
+1014
+00:50:06,856 --> 00:50:09,016
+then move to iPhone,
+and move back.
+
+
+1015
+00:50:09,016 --> 00:50:11,596
+And you get that
+distraction-free experience
+
+
+1016
+00:50:11,656 --> 00:50:13,356
+on any of those devices.
+
+
+1017
+00:50:13,956 --> 00:50:16,626
+And to show this app to you, I'd
+like to turn it over to Michael.
+
+
+1018
+00:50:17,556 --> 00:50:18,076
+>> Thank you, John.
+
+
+1019
+00:50:18,676 --> 00:50:20,586
+So Ulysses is a focused
+
+
+1020
+00:50:20,586 --> 00:50:22,806
+and distraction-free
+writing environment.
+
+
+1021
+00:50:23,396 --> 00:50:26,416
+It has the power of
+classic word processers
+
+
+1022
+00:50:26,416 --> 00:50:29,176
+with flexible organization
+and management tools.
+
+
+1023
+00:50:29,176 --> 00:50:32,926
+Now it's a super clean writing
+experience and it has features
+
+
+1024
+00:50:32,926 --> 00:50:34,316
+to help you through the task.
+
+
+1025
+00:50:34,756 --> 00:50:36,066
+So the first thing, for example,
+
+
+1026
+00:50:36,476 --> 00:50:38,836
+is I can highlight
+the current line.
+
+
+1027
+00:50:38,836 --> 00:50:40,596
+That should look familiar.
+
+
+1028
+00:50:41,266 --> 00:50:44,136
+We can also show
+paragraph numbers.
+
+
+1029
+00:50:45,266 --> 00:50:47,616
+Now Ulysses is based
+on Markdown.
+
+
+1030
+00:50:48,066 --> 00:50:49,236
+And what Markdown is --
+
+
+1031
+00:50:49,796 --> 00:50:52,236
+it's a markup language
+that uses plain text
+
+
+1032
+00:50:52,236 --> 00:50:54,196
+and special characters
+to set semantics.
+
+
+1033
+00:50:54,476 --> 00:50:57,066
+So, for example, here you
+can see that in this copy
+
+
+1034
+00:50:57,066 --> 00:50:59,006
+of the Apple TV human
+interface guidelines
+
+
+1035
+00:50:59,796 --> 00:51:02,186
+that navigation has
+two hash marks,
+
+
+1036
+00:51:02,186 --> 00:51:03,956
+and that is a second-level
+header.
+
+
+1037
+00:51:04,406 --> 00:51:08,486
+By the way, this tear-off menu
+is from their use of AppKit.
+
+
+1038
+00:51:09,156 --> 00:51:13,056
+Now Ulysses also presents images
+and URLs in a user-friendly
+
+
+1039
+00:51:13,056 --> 00:51:14,996
+and vey distraction-free way.
+
+
+1040
+00:51:16,636 --> 00:51:19,536
+Now Ulysses is really
+customizable.
+
+
+1041
+00:51:19,536 --> 00:51:21,636
+For me, for example, I
+like working at night.
+
+
+1042
+00:51:21,636 --> 00:51:24,926
+I get creative after
+dark, so I like Dark Mode.
+
+
+1043
+00:51:25,166 --> 00:51:26,726
+If Dark Mode doesn't
+work for you,
+
+
+1044
+00:51:27,076 --> 00:51:30,196
+there are customizable themes,
+or you can download themes
+
+
+1045
+00:51:30,196 --> 00:51:31,686
+from the Ulysses User Community.
+
+
+1046
+00:51:32,206 --> 00:51:34,696
+Now Markdown is an open
+standard, so they also ship
+
+
+1047
+00:51:34,736 --> 00:51:36,656
+with a number of different
+markdown definitions,
+
+
+1048
+00:51:36,656 --> 00:51:38,196
+or you can create your own.
+
+
+1049
+00:51:38,486 --> 00:51:40,046
+Both custom markdown definitions
+
+
+1050
+00:51:40,126 --> 00:51:43,926
+and custom themes are all
+synchronized using iCloud.
+
+
+1051
+00:51:45,256 --> 00:51:51,956
+OK. Now this is a modern,
+single-window, multicolumn app.
+
+
+1052
+00:51:52,366 --> 00:51:54,066
+So if you take a look all
+the way on the left side,
+
+
+1053
+00:51:54,066 --> 00:51:55,286
+that's my library column.
+
+
+1054
+00:51:55,286 --> 00:51:56,266
+And in my library column,
+
+
+1055
+00:51:56,266 --> 00:51:57,946
+that's where I manage
+all of my writing.
+
+
+1056
+00:51:58,316 --> 00:52:02,196
+For example, here I have a
+group of public domain books.
+
+
+1057
+00:52:02,196 --> 00:52:04,466
+I also have filters.
+
+
+1058
+00:52:04,466 --> 00:52:07,316
+Now a filter is sort
+of a persistent search.
+
+
+1059
+00:52:07,406 --> 00:52:09,796
+So here, for example, I'm
+searching for the word "Ishmael"
+
+
+1060
+00:52:09,796 --> 00:52:10,776
+or the name "Ishmael".
+
+
+1061
+00:52:11,136 --> 00:52:13,616
+And all of the occurrences
+come up, most of them
+
+
+1062
+00:52:13,616 --> 00:52:14,646
+from the book "Moby Dick".
+
+
+1063
+00:52:14,646 --> 00:52:16,426
+And I can also change the icon
+
+
+1064
+00:52:16,426 --> 00:52:17,836
+to something a little
+bit more appropriate.
+
+
+1065
+00:52:18,696 --> 00:52:20,826
+I can also do ad hoc searches.
+
+
+1066
+00:52:21,566 --> 00:52:25,916
+So, for example, I know that
+there is a single occurrence
+
+
+1067
+00:52:25,916 --> 00:52:27,756
+of the word "galleon"
+in all of these books.
+
+
+1068
+00:52:27,756 --> 00:52:28,416
+And if I take a look
+
+
+1069
+00:52:28,416 --> 00:52:31,266
+at the search base using
+the statistics feature,
+
+
+1070
+00:52:31,546 --> 00:52:35,006
+I can see that I just searched
+through about 1.3 million words,
+
+
+1071
+00:52:35,356 --> 00:52:36,946
+most of those written
+by James Joyce.
+
+
+1072
+00:52:37,326 --> 00:52:39,916
+And that's thanks to their
+implementation of Spotlight
+
+
+1073
+00:52:39,916 --> 00:52:41,376
+and Grand Central Dispatch.
+
+
+1074
+00:52:42,216 --> 00:52:44,336
+Okie dokie.
+
+
+1075
+00:52:45,386 --> 00:52:49,416
+So let's go back here.
+
+
+1076
+00:52:49,416 --> 00:52:50,686
+Let's kill this.
+
+
+1077
+00:52:50,686 --> 00:52:52,236
+Let's go back to
+our Apple TV HIG.
+
+
+1078
+00:52:53,016 --> 00:52:55,216
+All right.
+
+
+1079
+00:52:56,216 --> 00:52:59,616
+Now Ulysses is
+delivery-agnostic,
+
+
+1080
+00:52:59,666 --> 00:53:01,486
+so it doesn't matter where
+you're going to deliver from.
+
+
+1081
+00:53:01,486 --> 00:53:03,016
+You can preview in a number
+
+
+1082
+00:53:03,016 --> 00:53:05,676
+of different formats
+powered by TextKit, PDFKit.
+
+
+1083
+00:53:05,676 --> 00:53:08,256
+It can even publish
+directly to Medium.
+
+
+1084
+00:53:08,256 --> 00:53:10,836
+But one of the things
+
+
+1085
+00:53:10,836 --> 00:53:12,376
+that they've done is
+they've allowed you
+
+
+1086
+00:53:12,376 --> 00:53:14,226
+to make your own CSS files
+
+
+1087
+00:53:15,916 --> 00:53:18,166
+to style the preview
+exactly the way you need it.
+
+
+1088
+00:53:18,166 --> 00:53:20,306
+So, for example, here
+I have an HTML preview
+
+
+1089
+00:53:20,306 --> 00:53:22,216
+and I happen to have
+an Apple CSS.
+
+
+1090
+00:53:22,216 --> 00:53:30,566
+And I can apply that
+to my preview, like so.
+
+
+1091
+00:53:30,566 --> 00:53:34,076
+And you can see how the
+Apple TV HIG would look
+
+
+1092
+00:53:34,736 --> 00:53:36,646
+on an Apple website.
+
+
+1093
+00:53:37,596 --> 00:53:38,336
+All right.
+
+
+1094
+00:53:38,806 --> 00:53:43,636
+Now as John mentioned, Ulysses
+is available on OS X and iOS,
+
+
+1095
+00:53:43,816 --> 00:53:47,506
+eventually Mac OS I hope.
+
+
+1096
+00:53:47,506 --> 00:53:49,636
+It implements Handoff.
+
+
+1097
+00:53:49,636 --> 00:53:51,296
+It's available in 7 languages.
+
+
+1098
+00:53:51,676 --> 00:53:52,786
+We love this app.
+
+
+1099
+00:53:52,786 --> 00:53:53,996
+We use this app at Apple.
+
+
+1100
+00:53:54,286 --> 00:53:55,486
+We're so happy and so proud
+
+
+1101
+00:53:55,486 --> 00:53:58,316
+that you guys have created
+this and won an ADA.
+
+
+1102
+00:53:58,316 --> 00:53:59,516
+So, congratulations.
+
+
+1103
+00:53:59,516 --> 00:53:59,866
+Back to you, John.
+
+
+1104
+00:54:00,516 --> 00:54:05,796
+[ Applause ]
+
+
+1105
+00:54:06,296 --> 00:54:07,916
+>> So, as Michael said
+-- thank you, Michael.
+
+
+1106
+00:54:07,946 --> 00:54:10,786
+As Michael said, Ulysses is
+a great example of an app
+
+
+1107
+00:54:10,846 --> 00:54:16,586
+that takes advantage of iOS and
+OS X, Handoff, iCloud and more
+
+
+1108
+00:54:16,586 --> 00:54:18,536
+to deliver an optimized
+experience
+
+
+1109
+00:54:18,536 --> 00:54:19,836
+on each of these platforms.
+
+
+1110
+00:54:20,216 --> 00:54:22,626
+We talked about this new
+opportunity of four platforms,
+
+
+1111
+00:54:22,626 --> 00:54:24,456
+and this is an app
+that does a great job
+
+
+1112
+00:54:24,456 --> 00:54:25,936
+of heading in that direction.
+
+
+1113
+00:54:26,166 --> 00:54:26,946
+Congratulations.
+
+
+1114
+00:54:27,506 --> 00:54:30,546
+All right, our last
+winner today is an app
+
+
+1115
+00:54:30,546 --> 00:54:32,376
+that is incredibly
+state-of-the-art
+
+
+1116
+00:54:32,446 --> 00:54:34,506
+and incredibly accessible.
+
+
+1117
+00:54:35,216 --> 00:54:38,976
+It is djay Pro by
+Algoriddim from Germany.
+
+
+1118
+00:54:39,516 --> 00:54:49,576
+[ Applause ]
+
+
+1119
+00:54:50,076 --> 00:54:51,656
+You've been here before.
+
+
+1120
+00:54:51,656 --> 00:54:52,556
+You've been here before, sir.
+
+
+1121
+00:54:53,976 --> 00:54:55,626
+Good. Congratulations.
+
+
+1122
+00:54:56,516 --> 00:55:02,596
+[ Music ]
+
+
+1123
+00:55:03,096 --> 00:55:04,796
+All right, so djay Pro is one
+
+
+1124
+00:55:04,796 --> 00:55:09,206
+of the first professional-grade
+apps to fully leverage the audio
+
+
+1125
+00:55:09,206 --> 00:55:11,676
+and video capabilities
+of the new iPad Pro.
+
+
+1126
+00:55:12,166 --> 00:55:15,936
+And these guys already won an
+Apple Design Award in 2011,
+
+
+1127
+00:55:16,226 --> 00:55:18,416
+but they have done
+so much since then
+
+
+1128
+00:55:18,416 --> 00:55:20,356
+and they continue to innovate.
+
+
+1129
+00:55:20,536 --> 00:55:23,276
+And they have consistently
+stayed in lockstep
+
+
+1130
+00:55:23,336 --> 00:55:25,976
+with us every time
+we released a new OS,
+
+
+1131
+00:55:25,976 --> 00:55:28,506
+every time there's
+some new technology,
+
+
+1132
+00:55:28,736 --> 00:55:32,166
+and every time there's
+a new device to support.
+
+
+1133
+00:55:32,166 --> 00:55:33,086
+Really impressive.
+
+
+1134
+00:55:33,466 --> 00:55:36,586
+And we love this app because
+it sets new benchmarks
+
+
+1135
+00:55:36,586 --> 00:55:40,616
+for performance, for features,
+for use of Apple technology,
+
+
+1136
+00:55:40,926 --> 00:55:45,096
+for multi-device support,
+and for accessibility.
+
+
+1137
+00:55:45,186 --> 00:55:49,186
+And I'd like to ask Ryan
+to show the app off now.
+
+
+1138
+00:55:50,026 --> 00:55:50,936
+>> Hey. Thanks, John.
+
+
+1139
+00:55:51,096 --> 00:55:52,186
+My name is Ryan Dour.
+
+
+1140
+00:55:52,186 --> 00:55:54,246
+I'm an engineer on the
+Accessibility Team here
+
+
+1141
+00:55:54,246 --> 00:55:56,166
+at Apple, but I'm also a deejay.
+
+
+1142
+00:55:56,506 --> 00:55:58,376
+All of my life, I've
+been visually impaired.
+
+
+1143
+00:55:58,376 --> 00:56:00,156
+But during high school
+and college,
+
+
+1144
+00:56:00,156 --> 00:56:02,486
+I lost most of my
+remaining usable vision.
+
+
+1145
+00:56:03,076 --> 00:56:05,166
+I've always deejayed with
+CD players and mixers
+
+
+1146
+00:56:05,196 --> 00:56:07,526
+because they offer a
+hands-on tactile experience.
+
+
+1147
+00:56:08,146 --> 00:56:10,136
+However, with the rise
+of digital deejaying,
+
+
+1148
+00:56:10,136 --> 00:56:11,646
+I was feeling pretty left out.
+
+
+1149
+00:56:12,676 --> 00:56:15,596
+About a year ago, I got my
+hands on djay Pro for the Mac
+
+
+1150
+00:56:15,596 --> 00:56:17,866
+and this external deejay
+controller and I got back
+
+
+1151
+00:56:17,866 --> 00:56:19,736
+into it, and it's been
+a great time since.
+
+
+1152
+00:56:19,736 --> 00:56:25,816
+However, djay Pro for iPad
+takes accessible deejaying
+
+
+1153
+00:56:25,816 --> 00:56:28,266
+to a whole new level, and I'd
+love to show it to you now.
+
+
+1154
+00:56:29,026 --> 00:56:33,376
+So, over here, I have an
+iPad Pro running djay Pro
+
+
+1155
+00:56:33,576 --> 00:56:34,796
+and this external mixer.
+
+
+1156
+00:56:34,846 --> 00:56:37,036
+I'm going to go ahead and
+throw on my headphones now.
+
+
+1157
+00:56:37,906 --> 00:56:41,206
+So, here's the thing
+that's interesting.
+
+
+1158
+00:56:41,206 --> 00:56:42,746
+The external deejay
+controller acts
+
+
+1159
+00:56:42,746 --> 00:56:44,516
+as an extension of
+the onscreen UI.
+
+
+1160
+00:56:45,526 --> 00:56:48,526
+And so I can use it
+to really create kind
+
+
+1161
+00:56:48,526 --> 00:56:49,856
+of a pretty cool performance.
+
+
+1162
+00:56:49,916 --> 00:56:53,226
+Also, you're probably wondering
+what of this can I see.
+
+
+1163
+00:56:53,226 --> 00:56:56,426
+Not much. I pretty much can see
+the light coming from the screen
+
+
+1164
+00:56:56,426 --> 00:56:58,406
+and some of the, you know,
+colorful lights coming
+
+
+1165
+00:56:58,406 --> 00:57:00,926
+from the deejay controller,
+but that's about it.
+
+
+1166
+00:57:00,926 --> 00:57:03,066
+So knowing that, we're
+going to use VoiceOver
+
+
+1167
+00:57:03,066 --> 00:57:04,106
+to control this interface.
+
+
+1168
+00:57:04,106 --> 00:57:10,006
+Let's go ahead and
+get the music started.
+
+
+1169
+00:57:10,296 --> 00:57:12,756
+OK, so the first thing
+I'd like to point out is
+
+
+1170
+00:57:12,756 --> 00:57:13,596
+that I have access
+
+
+1171
+00:57:13,596 --> 00:57:15,036
+to information I've
+never had before.
+
+
+1172
+00:57:15,036 --> 00:57:16,556
+For example, the time.
+
+
+1173
+00:57:16,556 --> 00:57:18,266
+How much time is
+left on this track?
+
+
+1174
+00:57:18,266 --> 00:57:21,146
+Let's find out.
+
+
+1175
+00:57:21,146 --> 00:57:21,936
+That's perfect.
+
+
+1176
+00:57:21,936 --> 00:57:24,226
+OK. So I'm the deejay, I'm
+supposed to keep the music going
+
+
+1177
+00:57:24,226 --> 00:57:25,746
+and now I have that
+kind of information.
+
+
+1178
+00:57:26,056 --> 00:57:27,946
+I also can use these
+tempo sliders.
+
+
+1179
+00:57:28,236 --> 00:57:33,316
+For example, if I touch it
+right now -- hold on a second.
+
+
+1180
+00:57:34,256 --> 00:57:36,176
+So we hear it's at a
+standard playback speed.
+
+
+1181
+00:57:36,176 --> 00:57:38,296
+But if I slow it down
+using the deejay controller
+
+
+1182
+00:57:38,296 --> 00:57:43,626
+and I touch it again,
+
+
+1183
+00:57:44,666 --> 00:57:47,456
+we can hear exactly how far
+I slowed that track down.
+
+
+1184
+00:57:47,456 --> 00:57:48,206
+That's really cool.
+
+
+1185
+00:57:48,686 --> 00:57:51,136
+I also can use these
+multidimensional effects pads.
+
+
+1186
+00:57:51,196 --> 00:57:52,846
+For example, if I touch
+it the first time --
+
+
+1187
+00:57:53,736 --> 00:57:55,806
+but the second time.
+
+
+1188
+00:58:01,176 --> 00:58:02,176
+Really cool stuff, right?
+
+
+1189
+00:58:02,246 --> 00:58:06,016
+So between these effects
+pads, this external controller
+
+
+1190
+00:58:06,016 --> 00:58:07,266
+and all this accessible UI,
+
+
+1191
+00:58:07,266 --> 00:58:08,886
+I can do a pretty
+cool performance.
+
+
+1192
+00:58:08,886 --> 00:58:10,566
+So I'd like to go ahead
+and ask the stage here
+
+
+1193
+00:58:10,566 --> 00:58:13,776
+to please take VoiceOver
+off of the PA systems --
+
+
+1194
+00:58:13,776 --> 00:58:15,566
+that it's only available
+to me and my headphones.
+
+
+1195
+00:58:17,746 --> 00:58:18,746
+Cool. Thank you very much.
+
+
+1196
+00:58:18,746 --> 00:58:19,916
+And I'm going to
+mix for you now.
+
+
+1197
+00:58:20,296 --> 00:58:20,826
+Here we go.
+
+
+1198
+00:58:21,516 --> 00:58:44,516
+[ Music ]
+
+
+1199
+00:58:45,516 --> 00:58:56,516
+[ Applause ]
+
+
+1200
+00:58:57,516 --> 00:59:11,756
+[ Music ]
+
+
+1201
+00:59:12,256 --> 00:59:13,856
+So that's djay Pro
+from Algoriddim.
+
+
+1202
+00:59:14,516 --> 00:59:23,716
+[ Applause ]
+
+
+1203
+00:59:24,216 --> 00:59:25,166
+>> Ryan, you're the man.
+
+
+1204
+00:59:25,446 --> 00:59:26,306
+>> I've got to tell you --
+
+
+1205
+00:59:26,426 --> 00:59:29,286
+this is an incredible
+custom user interface.
+
+
+1206
+00:59:29,666 --> 00:59:33,196
+They did not use UIKit
+with this interface at all.
+
+
+1207
+00:59:33,196 --> 00:59:35,456
+They didn't get any of their
+accessibility for free.
+
+
+1208
+00:59:35,866 --> 00:59:38,566
+Considering that,
+their implementation
+
+
+1209
+00:59:38,676 --> 00:59:43,046
+of our accessibility APIs is
+nothing less than spectacular.
+
+
+1210
+00:59:43,046 --> 00:59:44,796
+So I want to let everybody know,
+
+
+1211
+00:59:44,796 --> 00:59:46,956
+and especially all the
+visually-impaired deejays
+
+
+1212
+00:59:46,956 --> 00:59:50,946
+out there, this app has
+really enriched my life.
+
+
+1213
+00:59:50,946 --> 00:59:53,986
+So I absolutely cannot
+wait to see what the rest
+
+
+1214
+00:59:53,986 --> 00:59:55,796
+of you developers
+make accessible next!
+
+
+1215
+00:59:55,796 --> 00:59:57,576
+Thank you so much, John!
+
+
+1216
+00:59:58,236 --> 00:59:58,946
+>> Yeah. Good job.
+
+
+1217
+00:59:59,516 --> 01:00:04,576
+[ Applause ]
+
+
+1218
+01:00:05,076 --> 01:00:08,396
+Ryan, you're the man.
+
+
+1219
+01:00:08,396 --> 01:00:15,126
+djay Pro -- a beautiful, fully
+accessible, super sophisticated,
+
+
+1220
+01:00:15,246 --> 01:00:18,776
+high-performance app
+built for iOS and OS X.
+
+
+1221
+01:00:19,366 --> 01:00:20,346
+Congratulations, guys.
+
+
+1222
+01:00:21,566 --> 01:00:26,326
+So those are our
+winners this year --
+
+
+1223
+01:00:27,806 --> 01:00:31,266
+two great student apps
+worthy of a Design Award,
+
+
+1224
+01:00:32,586 --> 01:00:34,876
+and 10 other incredible apps.
+
+
+1225
+01:00:35,506 --> 01:00:38,566
+10 apps that set the
+standard for this coming year.
+
+
+1226
+01:00:39,256 --> 01:00:42,596
+Each of these apps has
+something very unique.
+
+
+1227
+01:00:43,316 --> 01:00:44,926
+They entertain in a new way.
+
+
+1228
+01:00:44,926 --> 01:00:48,016
+They allow you to
+communicate in a new way.
+
+
+1229
+01:00:48,756 --> 01:00:50,146
+They educate in a new way.
+
+
+1230
+01:00:50,146 --> 01:00:53,826
+They solve real problems
+in a clever or new way.
+
+
+1231
+01:00:53,826 --> 01:00:57,986
+And they open doors for
+people and enable people
+
+
+1232
+01:00:57,986 --> 01:00:59,536
+to do things they
+couldn't do before.
+
+
+1233
+01:00:59,536 --> 01:01:02,916
+And all of them are
+incredibly well-designed
+
+
+1234
+01:01:02,916 --> 01:01:08,946
+and extremely well-executed
+on all four of our platforms.
+
+
+1235
+01:01:08,946 --> 01:01:11,526
+Now winners today get to
+take home, as you've seen,
+
+
+1236
+01:01:11,526 --> 01:01:13,056
+the Apple Design Award Trophy.
+
+
+1237
+01:01:13,056 --> 01:01:14,566
+When you tap it,
+it lights up just
+
+
+1238
+01:01:14,566 --> 01:01:16,826
+like the cover of your laptop.
+
+
+1239
+01:01:16,826 --> 01:01:17,566
+It's very cool.
+
+
+1240
+01:01:17,566 --> 01:01:19,476
+Go check it out from one
+of the winners later on.
+
+
+1241
+01:01:20,086 --> 01:01:22,726
+So you get the coveted
+Apple Design Award Trophy,
+
+
+1242
+01:01:23,006 --> 01:01:25,306
+as well as a prize
+package including one
+
+
+1243
+01:01:25,306 --> 01:01:27,556
+of almost everything that
+we make -- fully loaded.
+
+
+1244
+01:01:28,516 --> 01:01:35,936
+[ Applause ]
+
+
+1245
+01:01:36,436 --> 01:01:39,786
+And you get some
+prominent featuring
+
+
+1246
+01:01:39,786 --> 01:01:41,396
+on the App Store
+beginning tonight.
+
+
+1247
+01:01:42,516 --> 01:01:48,736
+[ Applause ]
+
+
+1248
+01:01:49,236 --> 01:01:52,786
+All right, we wanted to wrap up
+this day with this fun event.
+
+
+1249
+01:01:53,056 --> 01:01:56,296
+It's always fun for me to do the
+Design Awards, to be involved
+
+
+1250
+01:01:56,296 --> 01:01:58,336
+with this, to know
+so many of you
+
+
+1251
+01:01:58,336 --> 01:02:00,626
+and to see your apps
+come along and then some
+
+
+1252
+01:02:00,626 --> 01:02:01,806
+of them to arrive on stage.
+
+
+1253
+01:02:01,806 --> 01:02:04,006
+It's always fun to
+give out these awards.
+
+
+1254
+01:02:04,646 --> 01:02:09,256
+But before we wrap up tonight,
+we just wanted to tell you
+
+
+1255
+01:02:09,256 --> 01:02:11,566
+about something else that we've
+been working on that's fun.
+
+
+1256
+01:02:11,566 --> 01:02:15,826
+And it's a little bit apart
+from the Design Awards
+
+
+1257
+01:02:15,826 --> 01:02:21,096
+that we've given out so far, but
+it's a great way to end our day.
+
+
+1258
+01:02:21,096 --> 01:02:24,546
+And it does tie into
+building something that's fun,
+
+
+1259
+01:02:24,546 --> 01:02:27,426
+and unique, and compelling.
+
+
+1260
+01:02:27,946 --> 01:02:33,106
+So to talk about that, I'd like
+to invite Ben Wolstenholme,
+
+
+1261
+01:02:33,106 --> 01:02:39,386
+Cofounder and CEO of Madefire, a
+developer of iOS and TV OS apps,
+
+
+1262
+01:02:39,476 --> 01:02:40,636
+to join me here on stage.
+
+
+1263
+01:02:40,636 --> 01:02:40,816
+Ben?
+
+
+1264
+01:02:41,516 --> 01:02:50,576
+[ Applause ]
+
+
+1265
+01:02:51,076 --> 01:02:51,586
+Thanks, John.
+
+
+1266
+01:02:51,696 --> 01:02:52,366
+Great to be here.
+
+
+1267
+01:02:52,776 --> 01:02:57,106
+So Madefire is all
+about storytelling --
+
+
+1268
+01:02:57,576 --> 01:03:00,156
+and in particular, comics.
+
+
+1269
+01:03:01,036 --> 01:03:02,906
+We love comics because they're
+
+
+1270
+01:03:02,906 --> 01:03:05,276
+such a powerful storytelling
+format.
+
+
+1271
+01:03:06,226 --> 01:03:07,746
+People learn to read
+through comics.
+
+
+1272
+01:03:08,396 --> 01:03:10,636
+People escape into other
+worlds through comics.
+
+
+1273
+01:03:11,576 --> 01:03:15,766
+Most of all, comics are
+words and pictures perfect
+
+
+1274
+01:03:15,896 --> 01:03:19,276
+for the visual world
+that we live in.
+
+
+1275
+01:03:19,666 --> 01:03:22,196
+We've been working closely with
+Apple on something that we'd
+
+
+1276
+01:03:22,196 --> 01:03:23,476
+like to share with you tonight.
+
+
+1277
+01:03:24,926 --> 01:03:26,076
+As you may have seen earlier,
+
+
+1278
+01:03:26,316 --> 01:03:29,476
+Apple today launched new
+app review guidelines.
+
+
+1279
+01:03:30,486 --> 01:03:31,966
+They're very different
+to the guidelines
+
+
+1280
+01:03:31,966 --> 01:03:34,636
+that we're all used to, and
+they're much more approachable.
+
+
+1281
+01:03:35,936 --> 01:03:38,806
+And after speaking with Apple
+about this new approach,
+
+
+1282
+01:03:39,806 --> 01:03:45,476
+we collaborated to create --
+
+
+1283
+01:03:46,516 --> 01:03:52,546
+[ Applause ]
+
+
+1284
+01:03:53,046 --> 01:03:57,606
+Oh, yes! App Review
+Guidelines, the Comic Book.
+
+
+1285
+01:03:58,056 --> 01:04:02,396
+OK. Apple has put a lot of
+thought into reorganizing
+
+
+1286
+01:04:02,396 --> 01:04:04,886
+and simplifying the
+guidelines into five sections.
+
+
+1287
+01:04:05,676 --> 01:04:08,066
+And this gave us a great
+opportunity to work
+
+
+1288
+01:04:08,066 --> 01:04:09,316
+with different illustrators
+
+
+1289
+01:04:09,686 --> 01:04:14,376
+and to develop five totally
+different graphic styles.
+
+
+1290
+01:04:14,556 --> 01:04:17,006
+Each section is a visual story.
+
+
+1291
+01:04:18,016 --> 01:04:20,076
+And we really wanted
+the visuals to react
+
+
+1292
+01:04:20,366 --> 01:04:22,696
+with the serious content
+of the guidelines.
+
+
+1293
+01:04:23,536 --> 01:04:26,226
+It's created a pretty
+wild outcome,
+
+
+1294
+01:04:27,666 --> 01:04:29,596
+and something we hope
+will engage people
+
+
+1295
+01:04:30,086 --> 01:04:33,266
+around these important
+topics even
+
+
+1296
+01:04:33,266 --> 01:04:35,446
+if you think you know
+the guidelines already.
+
+
+1297
+01:04:36,196 --> 01:04:37,646
+It's pretty useful.
+
+
+1298
+01:04:38,596 --> 01:04:41,466
+The comic book will be
+available for download
+
+
+1299
+01:04:41,466 --> 01:04:42,786
+from the developer's site,
+
+
+1300
+01:04:42,786 --> 01:04:45,086
+alongside the searchable
+text version.
+
+
+1301
+01:04:45,936 --> 01:04:50,736
+But you will get to take home
+your printed comic book tonight.
+
+
+1302
+01:04:51,516 --> 01:04:58,806
+[ Applause ]
+
+
+1303
+01:04:59,306 --> 01:05:02,226
+Oh, yes, hard to believe.
+
+
+1304
+01:05:02,426 --> 01:05:04,956
+In a world of screens,
+a big part of what we do
+
+
+1305
+01:05:04,956 --> 01:05:07,056
+at Madefire is enable people
+
+
+1306
+01:05:07,316 --> 01:05:09,996
+to turn their stories
+into motion books.
+
+
+1307
+01:05:10,966 --> 01:05:14,086
+As you can see, motion books
+are a reading experience
+
+
+1308
+01:05:14,366 --> 01:05:16,186
+with motion, sound, and depth.
+
+
+1309
+01:05:17,316 --> 01:05:21,286
+And we're thrilled to be
+working on a motion book version
+
+
+1310
+01:05:21,666 --> 01:05:23,276
+of the app review guidelines.
+
+
+1311
+01:05:24,746 --> 01:05:27,956
+Here's a sneak peek.
+
+
+1312
+01:05:28,516 --> 01:05:58,546
+[ Music ]
+
+
+1313
+01:05:59,046 --> 01:06:02,786
+So, look out for the App Review
+Guidelines motion book coming
+
+
+1314
+01:06:02,786 --> 01:06:05,106
+soon to an Apple
+device near you.
+
+
+1315
+01:06:05,996 --> 01:06:08,576
+And you can get your
+printed comic here tonight.
+
+
+1316
+01:06:08,626 --> 01:06:10,286
+I hope you enjoy the read.
+
+
+1317
+01:06:10,686 --> 01:06:10,886
+Thanks.
+
+
+1318
+01:06:11,516 --> 01:06:18,556
+[ Applause ]
+
+
+1319
+01:06:19,056 --> 01:06:19,686
+Thanks, ben.
+
+
+1320
+01:06:19,686 --> 01:06:20,576
+It's pretty fun.
+
+
+1321
+01:06:20,576 --> 01:06:22,916
+A great way to end a
+fun event with that.
+
+
+1322
+01:06:22,956 --> 01:06:26,856
+So let's wrap up here right now.
+
+
+1323
+01:06:28,066 --> 01:06:31,306
+Congratulations, first of
+all, to all of you who've done
+
+
+1324
+01:06:31,366 --> 01:06:35,156
+such incredible work over
+the past months, years,
+
+
+1325
+01:06:35,156 --> 01:06:37,726
+as you worked on these apps
+that tonight won an award.
+
+
+1326
+01:06:38,146 --> 01:06:39,276
+Hats off to you.
+
+
+1327
+01:06:40,456 --> 01:06:43,626
+You've put in just an enormous
+amount of work designing
+
+
+1328
+01:06:43,626 --> 01:06:45,906
+and developing these apps,
+and they've set a new standard
+
+
+1329
+01:06:45,906 --> 01:06:47,806
+for the entire community.
+
+
+1330
+01:06:48,536 --> 01:06:52,476
+And thanks to you all
+here, as well as folks
+
+
+1331
+01:06:52,476 --> 01:06:53,656
+who are watching online.
+
+
+1332
+01:06:53,656 --> 01:06:56,646
+We've got lots of people
+dialed in through the WWDC app
+
+
+1333
+01:06:56,646 --> 01:06:59,356
+and through the online stream
+that we've got from this event.
+
+
+1334
+01:06:59,746 --> 01:07:02,746
+Thank you for joining us
+from around the world.
+
+
+1335
+01:07:03,426 --> 01:07:05,586
+We look forward to seeing
+what you're going to create
+
+
+1336
+01:07:05,586 --> 01:07:09,626
+in this coming year, what you're
+going to create based on things
+
+
+1337
+01:07:09,626 --> 01:07:13,636
+that maybe you saw this evening
+that inspired you to move
+
+
+1338
+01:07:13,636 --> 01:07:16,156
+to a new level with your app
+and with your development
+
+
+1339
+01:07:16,156 --> 01:07:19,136
+and with your design, and
+inspired by the new things
+
+
+1340
+01:07:19,136 --> 01:07:24,026
+that you heard today through the
+sessions earlier on in this day.
+
+
+1341
+01:07:24,346 --> 01:07:26,536
+So we'd like to close.
+
+
+1342
+01:07:26,686 --> 01:07:29,446
+Just before we close, I'd
+like to ask the winners
+
+
+1343
+01:07:29,526 --> 01:07:30,806
+to come back on stage.
+
+
+1344
+01:07:31,126 --> 01:07:33,836
+And while they're doing that,
+I just want to say thank you,
+
+
+1345
+01:07:34,106 --> 01:07:35,976
+and have a great
+week and good night.
+
+
+1346
+01:07:36,516 --> 01:07:44,500
+[ Applause ]
+

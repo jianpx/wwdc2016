@@ -1,1 +1,1 @@
-# wwdc2016
+# wwdc2016subtitles(英文字幕) are copied from https://github.com/wujichao/WWDC_2016_Video_Subtitle , big thanks to the repo!
